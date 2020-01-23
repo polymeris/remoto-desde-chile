@@ -11,8 +11,35 @@ TODO
 
 ## Recibe tu sueldo
 
+### Métodos
+
+#### Transferwise
+
+Limitaciones:
+* para Chile, hay un monto máximo mensual
+
+Ventajas:
+* relativamente barato
+* todo online
+
+#### Cuenta en el extranjero
+
+Limitaciones:
+* dificil (o imposible) de abrir, dependiendo del país.
+* no es una solución completa ya que igual tienes que enviar el dinero a Chile de alguna manera
+
+Ventajas:
+* probablemente más simple para tu empleador
+* puedes ahorrar/invertir en el extranjero
+
+#### Cuenta corriente en Chile, en pesos
+
 TODO
 
+#### Cuenta corriente en Chile, en dólares
+
+TODO
+                         
 ## Paga impuestos, salud y cotizaciones
 
 ### Emisión de boletas
