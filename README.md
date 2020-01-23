@@ -41,6 +41,8 @@ El cálculo del monto exacto es bastante complicado, pero **simplificando mucho*
 
 El SII te prepara una propuesta de formulario F22 con la información que tiene de tus pagos mensuales y lo que le informan diversas instituciones.
 
+La empresa para la que trabajas en el extranjero tendrá que declarar lo que te paga también. Es probable que para esto te pidan una declaración de que no pagas impuestos allá, y que tu te haces responsable por pagar tus impuestos en Chile. En el caso de empresas de EEUU esto se hace con [el formulario W-8](https://www.irs.gov/pub/irs-pdf/fw8ben.pdf).
+
 #### Impuestos en la declaración anual
 
 Hay distintos tipos de impuestos anuales, pero si tu ingreso principal es por boletas a una empresa extranjera, te interesa el _Impuesto Global Complementario_. Este se aplica sobre la base imponible, esto es, lo que ganaste el año anterior, menos todas las cosas que le puedas deducir, como cotizaciones, APV, gastos presuntos, etc. 
