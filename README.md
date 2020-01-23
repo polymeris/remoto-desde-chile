@@ -171,3 +171,6 @@ TODO: explicar priority stock y otros "caveats"
 
 TODO: como ejercer desde chile
 
+## Tengo más preguntas
+
+Pásate por el canal #remoto de https://devschile.cl/.
