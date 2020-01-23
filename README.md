@@ -97,6 +97,9 @@ TODO.
 ### Emisión de boletas
 
 Suponiendo que la empresa para la que trabajas no tiene presencia legal en Chile, debes emitir boleta de honorarios via www.sii.cl. Elige la opción que el contribuyente emisor (tú) retiene el Pago Provisional Mensual.
+
+![El contribuyente emisor será quien se encargue de la retenció del porcentaje vigente de Pago Provisional Mensual](img/sii-retencion-emisor.png)
+
 El SII tiene un RUT especial para empresas extranjeras: 44.444.446-0. En el campo de región puedes poner cualquier cosa, pero la dirección debería ser la real de la empresa.
 
 Si te pagan en dólares, usa la [tabla dólar-peso del SII](http://www.sii.cl/valores_y_fechas/dolar/dolar2020.htm) para convertir el total.
