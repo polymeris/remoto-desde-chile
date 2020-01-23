@@ -135,7 +135,7 @@ Todo esto el SII lo calcula por ti, pero si quieres saber cuanto pagarás (...TO
 
 Las cotizaciones de los trabajadores independientes se calculan en su declaración de renta anual. Entre los años 2019 y 2027 puedes elegir entre una cotización total o parcial. El 2019 la cotización parcial fue 5% de la total e irá subiendo todos los años.
 
-Si pagas total, la AFP corresponde a 10% de tu base imponible (que es lo que ganaste el año anterior con un tope de aprox 80UF por mes). Por ejemplo si ganaste 1 millón al mes pagarás (TODO ejemplo), mientras que si ganaste 3 millones al mes pagarás (TODO ejemplo).
+Si pagas total, la AFP corresponde a 10% de tu base imponible (que es lo que ganaste el año anterior con un tope de aprox 80UF por mes), más la comisión de la AFP. Por ejemplo si ganaste 1 millón al mes, y la comisón de AFP es 1.5% pagarás `$1.000.000 * 12 * 0,1115 ~= $1.340.000`, mientras que si ganaste 3 millones al mes pagarás lo mismo que si ganaras 2.3 millones, que es aproximadamente el tope: `$2.300.000 * 12 * 0,115 ~= $3.000.000`.
 
 El monto que pagas en salud, si optas por total depende del plan de Isapre que tengas, o si estás en Fonasa pagas un 7%, también considerando la base imponible del párrafo anterior.
 
