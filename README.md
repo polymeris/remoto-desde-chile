@@ -54,3 +54,18 @@ Las cotizaciones de los trabajadores independientes se calculan en su declaraci�
 Si pagas total, la AFP corresponde a 10% de tu base imponible (que es lo que ganaste el año anterior con un tope de aprox 80UF por mes). Por ejemplo si ganaste 1 millón al mes pagarás (TODO ejemplo), mientras que si ganaste 3 millones al mes pagarás (TODO ejemplo).
 
 El monto que pagas en salud, si optas por total depende del plan de Isapre que tengas, o si estás en Fonasa pagas un 7%, también considerando la base imponible del párrafo anterior.
+
+Si optas por cotización parcial, pagarás mucho menos, pero quedarás con cobertura parcial de salud a menos que pagues la diferencia durante el año. Y obviamente, ahorras menos en tu AFP. El porcentaje que pagas en cotización parcial comparado con total es:
+
+| Año  | Porcentaje |
+|------|------------|
+| 2020 | 17%        |
+| 2021 | 27%        |
+| 2022 | 37%        |
+| 2023 | 47%        |
+| 2024 | 57%        |
+| 2025 | 70%        |
+| 2026 | 80%        |
+| 2027 | 90%        |
+
+Además de AFP y Salud, pagas algunas cosas chicas como seguros de invalidez y de accidentes de trabajo.
