@@ -1,11 +1,27 @@
 
 # remoto-desde-chile
-Guías y recursos para trabajo remoto desde Chile
+Guías y recursos para trabajo remoto desde Chile. En general enfocado a desarrolladores y profesiones afines.
 
 |:warning:|Ninguno de nosotros es abogado, ni asesor financiero o tributario. La información en este repositorio NO constituye asesoramiento de ningun tipo. Consulta con un profesional. |
 |---|---|
 
 ## Encuentra trabajo
+
+### Formas de trabajo
+
+A grandes rasgos tienes 3 opciones:
+
+1. Trabajar independiente (como _contractor_), sea freelanceando para varias empresas o para una sola. Algunas empresas te tratarán como un empleado más aunque técnicamente no lo seas, aunque probablemente no recibas los beneficios que reciben los locales, como seguros de salud.
+2. Crear una empresa individual en el extranjero y auto-contratarte en esta. Esto puede tener muchos beneficios financieros, pero es una opción mucho más engorrosa.
+3. Trabajar para una empresa chilena que preste servicios a un tercero en el extranjero. Esto te ahorra la pega de buscar tus propios proyectos y clientes, pero tienes que tener cuidado: muchas de estas empresas chilenas funcionan como moledoras de carne, no te pagan si no tienes un proyecto, y cuando lo tienes cortan una buena tajada (40% a veces!)
+
+Esta guía en general se enfoca en la primera opción.
+
+### Preparación
+
+TODO
+
+### Dónde encontrar trabajo
 
 TODO
 
