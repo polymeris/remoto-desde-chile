@@ -33,4 +33,10 @@ Si eres independiente en esta ocasión también tienes que pagar tus cotizacione
 
 El cálculo del monto exacto es bastante complicado, pero **simplificando mucho** la idea general es que de la suma de lo que pagaste mensualmente se le restan los impuestos, salud y AFP. Si sobra, te devuelven. Si falta, te lo cobran.
 
-TODO
+El SII te prepara una propuesta de formulario F22 con la información que tiene de tus pagos mensuales y lo que le informan diversas instituciones.
+
+#### Impuestos en la declaración anual
+
+Hay distintos tipos de impuestos anuales, pero si tu ingreso principal es por boletas a una empresa extranjera, te interesa el _Impuesto Global Complementario_. Este se aplica sobre la base imponible, esto es, lo que ganaste el año anterior, menos todas las cosas que le puedas deducir, como cotizaciones, APV, gastos presuntos, etc. 
+
+Todo esto el SII lo calcula por ti, pero si quieres saber cuanto pagarás (...TODO: explicar como calcular en base a tabla)
