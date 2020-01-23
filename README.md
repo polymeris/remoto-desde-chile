@@ -4,7 +4,7 @@ Guías y recursos para trabajo remoto desde Chile. En general enfocado a desarro
 
 ---
 
-:warning: **Ninguno de nosotros es abogado, ni asesor financiero o tributario. La información en este repositorio NO constituye asesoramiento de ningun tipo. Consulta con un profesional.** :warning:
+⚠️ **Ninguno de nosotros es abogado, ni asesor financiero o tributario. La información en este repositorio NO constituye asesoramiento de ningun tipo. Consulta con un profesional.** ⚠️
 
 ---
 
