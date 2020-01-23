@@ -29,6 +29,14 @@ TODO
 
 TODO
 
+## ¿Cuánto cobro?
+
+Harto. Por favor, aprovecha que hay demanda de desarrolladores y cobra caro, nos beneficia a todos que "desarrollador/a en Chile" no sea sinónimo de bajo presupuesto.
+
+GitLab es transparente con sus salarios y tiene [una calculadora online](https://about.gitlab.com/handbook/people-group/global-compensation/calculator/), para que lo uses de punto de partida. Parte negociando con un 20-30% más de lo que dice la calculadora.
+
+Si trabajas como freelancer por hora o día, cobra el doble, tienes que pagar las horas que pasarás buscando proyectos y el tiempo que te dejarán esperando.
+
 ## Recibe tu sueldo
 
 ### Métodos
