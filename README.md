@@ -27,7 +27,10 @@ TODO
 
 ### Dónde encontrar trabajo
 
-TODO
+Hay muchísimas plataformas online para buscar trabajo remoto, pero los mejores trabajos se siguen consiguiendo por recomendación de tu red de conocidos o en foros, slacks, etc. Busca un slack de tu tecnología o nicho y pregunta por el canal de #jobs.
+
+* [devschile](https://devschile.cl/) tiene un canal #pegas con bastante énfasis en lo remoto
+* [Hacker News](https://news.ycombinator.com/) publica mensualmente un hilo de "Who's hiring"
 
 ## ¿Cuánto cobro?
 
