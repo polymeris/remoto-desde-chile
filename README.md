@@ -119,4 +119,19 @@ El SII tiene [algunos ejemplos online](http://www.sii.cl/destacados/renta/2019/c
 
 ## Stock options/RSUs
 
-TODO
+Primero, nuevamente el disclaimer: Estas cosas son complicadas y puedes perder **mucha** plata invirtiendo y/o pagando impuestos. Si tienes stock options o algo así, asume que todo lo que dice aquí es falso y habla con profesionales financieros y tributarios.
+
+Stock options y RSUs son beneficios que te dan algunas empresas como complemento de tu sueldo. La idea es que si a la empresa le va bien, tu también ganas.
+
+Los stock options en general son entregados por startups, y consisten en la _opción_ de comprar acciones a un precio determinado, el llamado _strike price_. En caso de que la empresa crezca, se asume que el valor real de las acciones irá aumentando mientras el strike price se mantiene. Si el startup falla (que es probable!) o su valor no aumenta, las opciones no valen nada.
+
+Por ejemplo te podrían ofrecer 30.000 options con un strike price de $1 cuando entras a trabajar. 4 años después, la empresa se vende (o entra a la bolsa) y sus acciones valen $5. En principio, esto significa que puedes _ejercer_ tus opciones por $30.000 y venderlas por $150.000, ganando $120.000, menos impuestos.
+
+Las RSUs en general son entregadas por empresas que ya son públicas o más establecidas. Es parecido a tener un stock option con strike price de $0, esto es, no tienes que ejercerlas, te dan las acciones directamente.
+
+TODO: explicar vesting
+
+TODO: explicar priority stock y otros "caveats"
+
+TODO: como ejercer desde chile
+
