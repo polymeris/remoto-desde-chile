@@ -41,11 +41,14 @@ Si trabajas como freelancer por hora o día, cobra el doble, tienes que pagar la
 
 ### Transferwise
 
+[Transferwise](https://transferwise.com/invite/u/camilop16) (link con invite) te da una especie de cuenta virtual dónde tu empleador puede depositar como si tuvieras una cuenta en EEUU. Luego tu puedes transferir a cuentas en muchos países, incluyendo Chile.
+
 Limitaciones:
-* para Chile, hay un monto máximo mensual
+* en el pasado ha tenido limitaciones de monto mensual, pero eso va cambiando, revisa su [centro de ayuda](https://transferwise.com/es/help/14/monedas)
 
 Ventajas:
-* relativamente barato
+* relativamente barato (a menos que envies montos muy grandes)
+* rápido
 * todo online
 
 ### Cuenta en el extranjero
