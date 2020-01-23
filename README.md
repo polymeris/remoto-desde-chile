@@ -28,4 +28,9 @@ Si tu retuviste el Pago Provisional Mensual al emitir la boleta, debes declarar 
 
 ### Declaración anual
 
+La "operación renta" es el cálculo y pago de impuestos y cotizaciones que cada año tienes que hacer del año anterior. Por ejemplo en Abril del 2021 paga impuestos sobre lo que ganaste el año 2020.
+Si eres independiente en esta ocasión también tienes que pagar tus cotizaciones (TODO buscar excepciones).
+
+El cálculo del monto exacto es bastante complicado, pero **simplificando mucho** la idea general es que de la suma de lo que pagaste mensualmente se le restan los impuestos, salud y AFP. Si sobra, te devuelven. Si falta, te lo cobran.
+
 TODO
