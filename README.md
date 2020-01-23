@@ -48,13 +48,49 @@ Ventajas:
 * probablemente más simple para tu empleador
 * puedes ahorrar/invertir en el extranjero
 
-#### Cuenta corriente en Chile, en pesos
+#### Transferencia Bancaria Internacional
 
-TODO
+El empleador te envía un pago (conocido por los bancos como "remesa") el cual llega a Chile directamente a tu banco. Para que te puedan enviar este dinero a tu nombre, tienes que entregar los siguientes datos a tu empleador:
 
-#### Cuenta corriente en Chile, en dólares
+    Name: Tu nombre completo
+    ID: 11.111.111-1 (tu rut)
+    Beneficiary Account: xx-xxx-xxxxx-xx (el número de tu cuenta)
+    Bank: Banco de Chile - Santiago de Chile
+    Branch: Ahumada 251 - Santiago
+    Swift Code: Swift code de tu banco (consultar con ejecutivo de cuentas)
 
-TODO
+**Tip**: No es muy común recibir pagos del extranjero, por lo que muchas veces los ejecutivos no tienen idea de esta información. Para evitar confusiones, siempre nombrar la palabra "remesa" al referirse a tu pago.
+
+Puedes recibir tus pagos en cualquier cuenta corriente o vista (ejemplo: [Cuenta RUT](https://www.bancoestado.cl/imagenes/_personas/productos/cuentas/cuenta-rut-home.asp)) que tengas. Sin embargo, siempre consulta con tu ejecutivo de cuentas para proceder. Otra opción es obtener cuenta corriente en dólares y recibir el dinero ahí.
+
+En ambos casos, los datos que debes enviar son los mismos, pero el funcionamiento (como obtienes finalmente tu dinero) es distinto:
+
+##### *Cuenta Corriente* o *Cuenta Vista en Chile*, en pesos chilenos (CLP)
+
+Una vez le pasaste los datos de transferencia a tu empleador:
+
+- él hará una transferencia del pago (en dólares) de su banco al tuyo.
+- el pago se demora 1 o dos días hábiles "en llegar".
+
+Ahora el dinero está a tu nombre, en Chile y en tu banco... pero no en tu cuenta. Recuerda que te llegaron USD, así que no puedes pasarlo directamente a tu cuenta en CLP. ¿Qué hacer?
+
+- BancoEstado (Cuenta RUT):
+  - debes llamar por teléfono al banco para preguntar si te llegó una remesa. Si llegó...
+  - debes ir a una surcursal de BancoEstado que tenga "Banca Internacional".
+  - habla con el ejecutivo de "inversiones" de la sucursal (toma número para esta fila y para caja, BancoEstado se llena mucho...)
+  - el ejecutivo te generará un Voucher que debes pagar en caja (son las comisiones del Banco, 0.6%)
+  - con el número que ya sacaste, espera tu turno en Caja.
+  - en Caja, paga la comisión del Banco y aquí puedes pedir los dólares en efectivo o que te abonen los dólares a tu cuenta vista. Los dólares en efectivo te sirven por si quieres venderlo a alguien que te de más dinero por ellos.
+
+- BancoEdwards/Chile:
+  - Lo mismo que con banco estado, solo que te llega un correo automáticamente diciendo que ya que llegó el pago 🥰 
+  - La comisión es MUY parecida (~0.6%).
+  
+Nota personal: creo que en todos los bancos va a ser parecido. Espero que alguno tenga opción para hacer este trámite _remotamente_... sin embargo, si vas a recibir muchos sueldos, es mejor recibir en una cuenta corriente en dólares.
+
+##### Cuenta corriente en Chile, en dólares
+
+TODO.
                          
 ## Paga impuestos, salud y cotizaciones
 
