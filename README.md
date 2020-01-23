@@ -39,9 +39,7 @@ Si trabajas como freelancer por hora o día, cobra el doble, tienes que pagar la
 
 ## Recibe tu sueldo
 
-### Métodos
-
-#### Transferwise
+### Transferwise
 
 Limitaciones:
 * para Chile, hay un monto máximo mensual
@@ -50,7 +48,7 @@ Ventajas:
 * relativamente barato
 * todo online
 
-#### Cuenta en el extranjero
+### Cuenta en el extranjero
 
 Limitaciones:
 * dificil (o imposible) de abrir, dependiendo del país.
@@ -60,7 +58,7 @@ Ventajas:
 * probablemente más simple para tu empleador
 * puedes ahorrar/invertir en el extranjero
 
-#### Transferencia Bancaria Internacional
+### Transferencia Bancaria Internacional
 
 El empleador te envía un pago (conocido por los bancos como "remesa") el cual llega a Chile directamente a tu banco. Para que te puedan enviar este dinero a tu nombre, tienes que entregar los siguientes datos a tu empleador:
 
@@ -100,7 +98,7 @@ Ahora el dinero está a tu nombre, en Chile y en tu banco... pero no en tu cuent
   
 Nota personal: creo que en todos los bancos va a ser parecido. Espero que alguno tenga opción para hacer este trámite _remotamente_... sin embargo, si vas a recibir muchos sueldos, es mejor recibir en una cuenta corriente en dólares.
 
-##### Cuenta corriente en Chile, en dólares
+#### Cuenta corriente en Chile, en dólares
 
 TODO.
                          
