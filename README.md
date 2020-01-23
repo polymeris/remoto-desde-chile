@@ -2,8 +2,12 @@
 # remoto-desde-chile
 Guías y recursos para trabajo remoto desde Chile. En general enfocado a desarrolladores y profesiones afines.
 
-|:warning:|Ninguno de nosotros es abogado, ni asesor financiero o tributario. La información en este repositorio NO constituye asesoramiento de ningun tipo. Consulta con un profesional. |
-|---|---|
+---
+
+:warning: **Ninguno de nosotros es abogado, ni asesor financiero o tributario. La información en este repositorio NO constituye asesoramiento de ningun tipo. Consulta con un profesional.** :warning:
+
+---
+
 
 ## Encuentra trabajo
 
@@ -96,7 +100,7 @@ TODO.
 
 ### Emisión de boletas
 
-Suponiendo que la empresa para la que trabajas no tiene presencia legal en Chile, debes emitir boleta de honorarios via www.sii.cl. Elige la opción que el contribuyente emisor (tú) retiene el Pago Provisional Mensual.
+Suponiendo que la empresa para la que trabajas no tiene presencia legal en Chile, debes emitir boleta de honorarios via [la página web del SII](http://homer.sii.cl/). Elige la opción que el contribuyente emisor (tú) retiene el Pago Provisional Mensual.
 
 ![El contribuyente emisor será quien se encargue de la retenció del porcentaje vigente de Pago Provisional Mensual](img/sii-retencion-emisor.png)
 
@@ -106,7 +110,7 @@ Si te pagan en dólares, usa la [tabla dólar-peso del SII](http://www.sii.cl/va
 
 ### Impuestos mensuales
 
-Si tu retuviste el Pago Provisional Mensual al emitir la boleta, debes declarar (**y, muy importante, pagar!**) impuestos mensuales usando el formulario F29 en www.sii.cl. La página calcula el monto por ti a partir de las boletas electrónicas del mes anterior, y luego puedes pagar online con tu banco. Cuando se habla de "devolución de impuestos" este es el dinero que se te devuelve, si sobra algo luego de tramitar tu declaración de impuestos anual.
+Si tu retuviste el Pago Provisional Mensual al emitir la boleta, debes declarar (**y, muy importante, pagar!**) impuestos mensuales usando el formulario F29 [la web del SII](http://homer.sii.cl/). La página calcula el monto por ti a partir de las boletas electrónicas del mes anterior, y luego puedes pagar online con tu banco. Cuando se habla de "devolución de impuestos" este es el dinero que se te devuelve, si sobra algo luego de tramitar tu declaración de impuestos anual.
 
 ### Cotizaciones mensuales
 
@@ -176,4 +180,4 @@ Para ejecer tus stock options eventualmente tendrás que tener dólares (o la mo
 
 ## Tengo más preguntas
 
-Pásate por el canal #remoto de https://devschile.cl/.
+Pásate por el canal #remoto de [el slack de devschile](https://devschile.cl/).
