@@ -24,7 +24,7 @@ Si te pagan en dólares, usa la [tabla dólar-peso del SII](http://www.sii.cl/va
 
 ### Impuestos mensuales
 
-TODO
+Si tu retuviste el Pago Provisional Mensual al emitir la boleta, debes declarar (**y, muy importante, pagar!**) impuestos mensuales usando el formulario F29 en www.sii.cl. La página calcula el monto por ti a partir de las boletas electrónicas del mes anterior, y luego puedes pagar online con tu banco. Cuando se habla de "devolución de impuestos" este es el dinero que se te devuelve, si sobra algo luego de tramitar tu declaración de impuestos anual.
 
 ### Declaración anual
 
