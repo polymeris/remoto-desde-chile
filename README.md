@@ -75,7 +75,7 @@ Puedes recibir tus pagos en cualquier cuenta corriente o vista (ejemplo: [Cuenta
 
 En ambos casos, los datos que debes enviar son los mismos, pero el funcionamiento (como obtienes finalmente tu dinero) es distinto:
 
-##### *Cuenta Corriente* o *Cuenta Vista en Chile*, en pesos chilenos (CLP)
+#### *Cuenta Corriente* o *Cuenta Vista en Chile*, en pesos chilenos (CLP)
 
 Una vez le pasaste los datos de transferencia a tu empleador:
 
@@ -116,7 +116,7 @@ Si te pagan en dólares, usa la [tabla dólar-peso del SII](http://www.sii.cl/va
 
 ### Impuestos mensuales
 
-Si tu retuviste el Pago Provisional Mensual al emitir la boleta, debes declarar (**y, muy importante, pagar!**) impuestos mensuales usando el formulario F29 [la web del SII](http://homer.sii.cl/). La página calcula el monto por ti a partir de las boletas electrónicas del mes anterior, y luego puedes pagar online con tu banco. Cuando se habla de "devolución de impuestos" este es el dinero que se te devuelve, si sobra algo luego de tramitar tu declaración de impuestos anual.
+Si tu retuviste el Pago Provisional Mensual al emitir la boleta, debes declarar (**y, muy importante, pagar!**) impuestos mensuales usando el formulario F29 [la web del SII](http://homer.sii.cl/). La página calcula el monto por ti a partir de las boletas electrónicas del mes anterior (un 10,75% de éstas), y luego puedes pagar online con tu banco. Cuando se habla de "devolución de impuestos" este es el dinero que se te devuelve, si sobra algo luego de tramitar tu declaración de impuestos anual.
 
 ### Cotizaciones mensuales
 
