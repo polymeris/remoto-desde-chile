@@ -100,3 +100,7 @@ Si optas por cotización parcial, pagarás mucho menos, pero quedarás con cober
 Además de AFP y Salud, pagas algunas cosas chicas como seguros de invalidez y de accidentes de trabajo.
 
 El SII tiene [algunos ejemplos online](http://www.sii.cl/destacados/renta/2019/casos_declarar.html) para entender mejor esta diferencia.
+
+## Stock options/RSUs
+
+TODO
