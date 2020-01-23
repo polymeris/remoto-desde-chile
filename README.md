@@ -172,7 +172,7 @@ TODO: explicar vesting
 
 TODO: explicar priority stock y otros "caveats"
 
-TODO: como ejercer desde chile
+Para ejecer tus stock options eventualmente tendrás que tener dólares (o la moneda en la que se vendan las acciones), para poder pagarle a tu empresa. Si quieres poder hacerlo, probablemente te conviene ir ahorrando dólares desde un comienzo y encontrar una manera de transferir que no sea excesivamente cara, usando uno de los métodos descritos en "Recibe tu sueldo" pero a la inversa.
 
 ## Tengo más preguntas
 
