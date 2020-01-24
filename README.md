@@ -8,6 +8,9 @@ Guías y recursos para trabajo remoto desde Chile. En general enfocado a desarro
 
 ---
 
+* https://polymeris.github.io/remoto-desde-chile/
+{:toc}
+
 
 ## Encuentra trabajo
 
