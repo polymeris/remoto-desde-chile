@@ -159,6 +159,18 @@ Hay distintos tipos de impuestos anuales, pero si tu ingreso principal es por bo
 
 Todo esto el SII lo calcula por ti, pero si quieres saber cuanto pagarás (...TODO: explicar como calcular en base a tabla)
 
+Tabla impuesto global complementario 2020:
+
+| desde        | hasta       | factor | a rebajar      |
+|-------------:|------------:|:-------|---------------:|
+| $ 0          | $ 8.038.926 | 0      | $0,00          |
+| $8.038.926   | $17.864.280 | 0,04   | $321.557,04    |
+| $17.864.280  | $29.773.800 | 0,08   | $1.036.128,24  |
+| $29.773.800  | $41.683.320 | 0,135  | $2.673.687,24  |
+| $41.683.320  | $53.592.840 | 0,23   | $6.633.602,64  |
+| $53.592.840  | $71.457.120 | 0,304  | $10.599.472,80 |
+| $71.457.120  | y más       | 0,35   | $13.886.500,32 |
+
 #### Cotizaciones en la declaración anual
 
 Las cotizaciones de los trabajadores independientes se calculan en su declaración de renta anual. Entre los años 2019 y 2027 puedes elegir entre una cotización total o parcial. El 2019 la cotización parcial fue 5% de la total e irá subiendo todos los años.
