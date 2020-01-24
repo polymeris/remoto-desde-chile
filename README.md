@@ -23,7 +23,13 @@ Esta guía en general se enfoca en la primera opción.
 
 ### Preparación
 
-TODO
+Hablar inglés es casi indispensable, no hay vuelta a eso -- pero las buenas noticias es que no tienes que hablar muy bien. En particular, a **nadie** le importa si tienes acento. El mundo del desarrollo está lleno de hablantes no-nativos.
+
+Por lo demás: _créete el cuento_. El nivel del rubro en Chile no es tan bajo como se cree, y si llegaste hasta acá probablemente al menos tienes más curiosidad que el promedio.
+
+Eso no quiere decir que tener un buen currículum no ayude. En especial con posiciones remotas las empresas prefieren perfiles más senior, que trabajen más independientemente. Si eres muy novato, considera buscar una empresa que te sirva de trampolín: una empresa con renombre, aunque no sea remota. Una vez que la tengas en tu CV, se hace mucho más fácil.
+
+Para la entrevista: prepárate. Postula a cosas que de verdad te interesen, para tener tiempo de estudiarlos. Aprende sobre la empresa y su producto y ensaya la entrevista en tu cabeza. Sigue yendo a entrevistas aunque tengas pega fija, para mantenerte ejercitado, y quien sabe, quizás encuentras algo que te tinque más.
 
 ### Dónde encontrar trabajo
 
