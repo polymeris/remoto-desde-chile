@@ -91,7 +91,25 @@ El empleador te envía un pago (conocido por los bancos como "remesa") el cual l
 
 Puedes recibir tus pagos en cualquier cuenta corriente o vista (ejemplo: [Cuenta RUT](https://www.bancoestado.cl/imagenes/_personas/productos/cuentas/cuenta-rut-home.asp)) que tengas. Sin embargo, siempre consulta con tu ejecutivo de cuentas para proceder. Otra opción es obtener cuenta corriente en dólares y recibir el dinero ahí.
 
-En ambos casos, los datos que debes enviar son los mismos, pero el funcionamiento (como obtienes finalmente tu dinero) es distinto:
+En ambos casos, los datos que debes enviar son los mismos, pero el funcionamiento (como obtienes finalmente tu dinero) es distinto.
+
+#### Comisiones por recibir tu dinero
+
+Tu pago puede verse afecto por dos comisiones:
+
+1. La comisión que le cobran al empleador por enviarte el dinero: supongo que depende del Banco, pero en mi caso son 20 USD.
+    - **Tip**: intenga negociar que esto lo pague tu empleador y que no te lo descuenten del sueldo.
+2. La comisión que te cobra el banco chileno por recibir el dinero: depende del Banco.
+
+Las comisiones que tengo conocimiento son las siguientes:
+
+| Banco        | Comisión por recibir tu pago
+| ------------- |:-------------:|
+| BICE     | Gratis |
+| Scotiabank | Gratis |
+| Santander      |  ![Comisión Santander Recepción](https://user-images.githubusercontent.com/1679496/73072330-a1917300-3e93-11ea-9896-d14dd3ac37bb.png) ([fuente](https://www.santander.cl/tarifas_comisiones/productos/TransExterior.pdf))    |
+| Banco Edwards / Chile | ![Comisión Edwards Recepción](https://user-images.githubusercontent.com/1679496/73073148-7d369600-3e95-11ea-910f-584373ed63b5.png) ([fuente](https://transferwise.com/es/blog/transferencia-internacional-banco-chile)) |
+| Banco Estado | ![Comisión BancoEstado Recepción](https://user-images.githubusercontent.com/1679496/73072779-a30f6b00-3e94-11ea-8c54-fd958e5f5344.png) ([fuente](https://www.bancoestado.cl/imagenes/_personas/servicios/envio-de-dinero/exterior-chile.asp)) |
 
 #### *Cuenta Corriente* o *Cuenta Vista en Chile*, en pesos chilenos (CLP)
 
@@ -102,24 +120,76 @@ Una vez le pasaste los datos de transferencia a tu empleador:
 
 Ahora el dinero está a tu nombre, en Chile y en tu banco... pero no en tu cuenta. Recuerda que te llegaron USD, así que no puedes pasarlo directamente a tu cuenta en CLP. ¿Qué hacer?
 
-- BancoEstado (Cuenta RUT):
-  - debes llamar por teléfono al banco para preguntar si te llegó una remesa. Si llegó...
-  - debes ir a una surcursal de BancoEstado que tenga "Banca Internacional".
-  - habla con el ejecutivo de "inversiones" de la sucursal (toma número para esta fila y para caja, BancoEstado se llena mucho...)
-  - el ejecutivo te generará un Voucher que debes pagar en caja (son las comisiones del Banco, 0.6%)
-  - con el número que ya sacaste, espera tu turno en Caja.
-  - en Caja, paga la comisión del Banco y aquí puedes pedir los dólares en efectivo o que te abonen los dólares a tu cuenta vista. Los dólares en efectivo te sirven por si quieres venderlo a alguien que te de más dinero por ellos.
-
-- BancoEdwards/Chile:
-  - Lo mismo que con banco estado, solo que te llega un correo automáticamente diciendo que ya que llegó el pago 🥰 
-  - La comisión es MUY parecida (~0.6%).
+1. Un buen banco con tecnología de punta (😂) te enviará un correo notificándote del pago. En otros casos, tienes que usar _polling_ (😭) y llamar hasta que te digan que llegó
+2. Ahora que ya sabes que están los dólares, debes ir a una surcursal
+    - OJO 👀: pregunta en qué surcursal te pueden atender. BancoEstado tiene [sucursales especiales](https://www.bancoestado.cl/imagenes/_personas/noticias/detalle/sucursales-chilenos-exterior.asp) para esto.
+3. En el mesón de atención de cliente, solicita tus dólares.
+    - OJO 👀: en BancoEstado tienes que hablar con el ejecutivo de "Inversiones".
+4. El ejecutivo te generará un Voucher que debes pagar en caja (son las comisiones del Banco, ver sección anterior)
+5. Con el número que ya sacaste, espera tu turno en Caja.
+6. En Caja, paga la comisión del Banco y aquí puedes pedir los dólares en efectivo o que te abonen los dólares a tu cuenta vista. Los dólares en efectivo te sirven por si quieres venderlo a alguien que te de más dinero por ellos.
   
 Nota personal: creo que en todos los bancos va a ser parecido. Espero que alguno tenga opción para hacer este trámite _remotamente_... sin embargo, si vas a recibir muchos sueldos, es mejor recibir en una cuenta corriente en dólares.
 
 #### Cuenta corriente en Chile, en dólares
 
-TODO.
-                         
+Una vez le pasaste los datos de transferencia a tu empleador:
+
+- él hará una transferencia del pago (en dólares) de su banco al tuyo.
+- el pago se demora 1 o dos días hábiles "en llegar".
+- el pago llega y estará disponible en tu cuenta corriente en dólares ✌️
+- ahora puedes vender dólares, y los pesos chilenos serán depositados en tu cuenta corriente
+- ah y también puedes pagar tu cuenta internacional (ej: tus compras de AliExpress o Uber) directamente con tus dólares 😉 
+
+Es muy cómo que el pago te llegue y que más encima puedas venderlos sin ir a una oficina con depósito a tu cuenta en CLP.
+
+Eso sí, es importante tener cuenta que:
+
+- tener cuenta corriente en en dólares **no te salva de la comisión que tu banco te pueda cobrar** por el hecho de recibir tu dinero.
+- algunos bancos no tienen implementada la funcionalidad en sus páginas o apps de vender dólares (ej: BICE), por lo que para vender tienes que enviarle un correo a tu ejecutivo.
+- el tipo de cambio suele ser mejor que el que te dan en caja
+- la cuenta corriente podría tener costos de mantención asociados.
+
+**¿Cómo abrir cuenta corriente en dólares?**
+
+Dile a tu ejecutivo que quieres abrir cuenta en dólares porque recibes tu sueldo en USD via remesa internacional. Él te dirá como proceder. Algunas consideraciones:
+
+- es normal que te pidan demostrar la "legalidad" de esos pagos (puedes mostrar un contrato).
+- es normal que te pidan recibos de pagos anteriores si ya has recibido pagos anteriormente.
+- si te pagan mensualmente, díselo a tu ejecutivo. Darle el contexto completo siempre ayuda.
+
+**¿Cuáles son las comisiones de una cuenta corriente en dólares?**
+
+| Banco        | Comisión por recibir tu pago
+| ------------- |:-------------:|
+|Santander| $0 ([fuente](https://banco.santander.cl/tarifas-y-comisiones/santander/cuenta-corriente/archivos/cuenta-corriente-moneda-extranjera)) |
+| BICE | $0 |
+| Scotiabank | ![Comision cuenta corriente USD Scotiabank](https://user-images.githubusercontent.com/1679496/73074576-b9b7c100-3e98-11ea-9952-a7f938c50b49.png) |
+
+#### Tipo de Cambio
+
+El tipo de cambio depende de cómo vendas tus dólares:
+
+1. si vendes en sucursal, *creo* que el precio es más conservador (y por ende menor) a otros medios.
+    - a veces conviene cruzar la calle para ir a venderlos al Banco de al frente (mientras no haya mucha fila...)
+2. si vendes en página web desde tu cuenta corriente (o llamando a tu ejecutivo) el precio varía según mercado. Es decir, un mismo día pueden haber muchas variaciones. Mi experiencia con esta modalidad ha sido:
+    - Banco BICE: valor que te dan es muy similar al de https://valor-dolar.cl/
+    - Banco Scotiabank: valor inferior al de https://valor-dolar.cl/ (5-10 pesos)
+ 
+#### TLDR;
+
+- Tu empleador te puede enviar USD a tu cuenta chilena.
+- Aquí hay comisiones que le cobran a él por enviar (~20USD) y a ti por recibir (~0.6%, aunque en algunos bancos no te cobran).
+- Puedes recibir tu pago en cualquier tipo de cuenta (incluso cuenta RUT) aunque en cuentas vistas pueden haber límites de montos.
+- Si recibes en cuenta corriente en pesos Chilenos, tienes que ir a sucursal a retirar los dólares 🙃. Ahí puedes venderlos al mismo banco PERO considera que el tipo de cambio es conservador.
+- Si recibes en cuenta corriente en dólares, el abono se hace automáticamente y puedes vender los dólares a través de las plataformas web o llamando a tu ejetutiv@. El tipo de cambio varía con el mercado, un mismo día pueden haber distintos valores. Compara el valor que te ofrecen con el de la página [valor-dolar](https://valor-dolar.cl/).
+- Para abrir cuenta en dólares te pueden pedir ciertos requisitos, preguntar a ejecutiv@.
+- Uno de los mejores bancos para recibir dinero del exterior es el BICE por las siguientes razones:
+    - cuenta corriente en dólares no tiene costo
+    - no hay comisión por recibir el dinero
+    - el tipo de cambio es muy cercano al de la página valor-dolar
+    - si bien la barrera de entrada al banco es alta (es ABC1 😂) te piden pocas cosas para la cuenta en dólares
+
 ## Paga impuestos, salud y cotizaciones
 
 ### Emisión de boletas
