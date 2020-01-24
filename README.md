@@ -227,9 +227,7 @@ La empresa para la que trabajas en el extranjero tendrá que declarar lo que te 
 
 Hay distintos tipos de impuestos anuales, pero si tu ingreso principal es por boletas a una empresa extranjera, te interesa el _Impuesto Global Complementario_. Este se aplica sobre la base imponible, esto es, lo que ganaste el año anterior, menos todas las cosas que le puedas deducir, como cotizaciones, APV, gastos presuntos, etc. 
 
-Todo esto el SII lo calcula por ti, pero si quieres saber cuanto pagarás (...TODO: explicar como calcular en base a tabla)
-
-Tabla impuesto global complementario 2020:
+Todo esto el SII lo calcula por ti en la propuesta de declaración de impuestos, pero si quieres saber (o al menos, estimar) cuanto pagarás puedes usar la tabla impuesto global complementario (ejemplo declaración 2020):
 
 | desde        | hasta       | factor | a rebajar      |
 |-------------:|------------:|:-------|---------------:|
@@ -240,6 +238,16 @@ Tabla impuesto global complementario 2020:
 | $41.683.320  | $53.592.840 | 0,23   | $6.633.602,64  |
 | $53.592.840  | $71.457.120 | 0,304  | $10.599.472,80 |
 | $71.457.120  | y más       | 0,35   | $13.886.500,32 |
+
+Por ejemplo, si ganaste $20.000.000 en el 2019, quedarías en el 3er tramo, 8%. Pero de esto se substraen tus cotizaciones previsionales, salud, APV, gastos, etc. Con, esto, supongamos que quedas en $15.000.000, en el tramo 4%. Pero esto no significa que pagues 4% por todos tus impuestos, solo por los de ese tramo. Entonces, pagas: `($15.000.000 - $8.038.926) * 0,04 = $278.443`, un impuesto efectivo de 1,4% sobre los 20 millones que ganaste.
+
+La columna "a rebajar" sirve para simplificar el cálculo cuando ganas más (no tener que estar calculando cada tramo por separado y luego sumando). Por ejemplo si:
+* eres  🚀 y ganas 60.000.000
+* probablemente andes llanteando que tus impuestos son de más de 30%
+* solo deduciste 10 millones (fácil deducir más)
+* base imponible es de 50 palos
+* usas la fila de factor 0,23 y calculas `$50.000.000 * 0,23 - $6.633.602,64 = $4.866.397`
+* eso es un 8,1% de impuesto efectivo
 
 #### Cotizaciones en la declaración anual
 
