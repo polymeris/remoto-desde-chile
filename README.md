@@ -1,6 +1,6 @@
 
 # remoto-desde-chile
-Guías y recursos para trabajo remoto desde Chile. En general enfocado a desarrolladores y profesiones afines.
+Enfocado en desarrolladores y profesiones afines trabajando remotamente desde Chile.
 
 ---
 
@@ -18,17 +18,17 @@ Guías y recursos para trabajo remoto desde Chile. En general enfocado a desarro
 
 A grandes rasgos tienes 3 opciones:
 
-1. Trabajar independiente (como _contractor_), sea freelanceando para varias empresas o para una sola. Algunas empresas te tratarán como un empleado más aunque técnicamente no lo seas, aunque probablemente no recibas los beneficios que reciben los locales, como seguros de salud.
-2. Crear una empresa individual en el extranjero y auto-contratarte en esta. Esto puede tener muchos beneficios financieros, pero es una opción mucho más engorrosa.
+1. Trabajar independiente (como _contractor_), sea freelanceando para varias empresas o para una sola. Algunas empresas te tratarán como un empleado más aunque técnicamente no lo seas, pero probablemente no recibas los beneficios que reciben los locales, como seguros de salud.
+2. Crear una empresa individual en el extranjero y auto-contratarte en esta. Esto puede tener muchos beneficios financieros, en particular si facturas mucho, pero es una opción mucho más engorrosa.
 3. Trabajar para una empresa chilena que preste servicios a un tercero en el extranjero. Esto te ahorra la pega de buscar tus propios proyectos y clientes, pero tienes que tener cuidado: muchas de estas empresas chilenas funcionan como moledoras de carne, no te pagan si no tienes un proyecto, y cuando lo tienes cortan una buena tajada (40% a veces!)
 
-Esta guía en general se enfoca en la primera opción.
+Esta guía considera principalmente la primera opción.
 
 ### Preparación
 
-Hablar inglés es casi indispensable, no hay vuelta a eso -- pero las buenas noticias es que no tienes que hablar muy bien. En particular, a **nadie** le importa si tienes acento. El mundo del desarrollo está lleno de hablantes no-nativos.
+Hablar inglés es casi indispensable, no hay vuelta a eso -- pero la buena noticia es que no tienes que hablar muy bien. En particular, a **nadie** le importa si tienes acento. El mundo del desarrollo está lleno de hablantes no-nativos.
 
-Por lo demás: _créete el cuento_. El nivel del rubro en Chile no es tan bajo como se cree, y si llegaste hasta acá probablemente al menos tienes más curiosidad que el promedio.
+Por lo demás: _créete el cuento_. El nivel del rubro en Chile no es tan bajo como se cree, y si llegaste hasta acá al menos tienes más curiosidad que el promedio.
 
 Eso no quiere decir que tener un buen currículum no ayude. En especial con posiciones remotas las empresas prefieren perfiles más senior, que trabajen más independientemente. Si eres muy novato, considera buscar una empresa que te sirva de trampolín: una empresa con renombre, aunque no sea remota. Una vez que la tengas en tu CV, se hace mucho más fácil.
 
@@ -36,7 +36,7 @@ Para la entrevista: prepárate. Postula a cosas que de verdad te interesen, para
 
 ### Dónde encontrar trabajo
 
-Hay muchísimas plataformas online para buscar trabajo remoto, pero los mejores trabajos se siguen consiguiendo por recomendación de tu red de conocidos o en foros, slacks, etc. Busca un slack de tu tecnología o nicho y pregunta por el canal de #jobs.
+Hay muchísimas plataformas online para buscar trabajo remoto, pero los mejores trabajos se siguen consiguiendo por _networking_: recomendación de tu red de conocidos o en foros, slacks, etc. Busca uno de tu tecnología o nicho y pregunta por el canal de #jobs.
 
 * [devschile](https://devschile.cl/) tiene un canal #pegas con bastante énfasis en lo remoto
 * [Hacker News](https://news.ycombinator.com/) publica mensualmente un hilo de "Who's hiring". [Hay](https://findwork.dev/?source=hn) [algunas](https://djqyo3vqv2.execute-api.us-west-1.amazonaws.com/latest/) [herramientas](https://news.ycombinator.com/item?id=10313519) para browsear esos hilos mensuales de forma mas amigable.
@@ -46,7 +46,7 @@ Hay muchísimas plataformas online para buscar trabajo remoto, pero los mejores 
 
 ## ¿Cuánto cobro?
 
-Harto. Por favor, aprovecha que hay demanda de desarrolladores y cobra caro, nos beneficia a todos que "desarrollador/a en Chile" no sea sinónimo de bajo presupuesto.
+Harto. Por favor, aprovecha que hay demanda de desarrolladores y cobra caro, nos beneficia a todes que "desarrollador/a en Chile" no sea sinónimo de bajo presupuesto.
 
 GitLab es transparente con sus salarios y tiene [una calculadora online](https://about.gitlab.com/handbook/people-group/global-compensation/calculator/), para que lo uses de punto de partida. Parte negociando con un 20-30% más de lo que dice la calculadora.
 
@@ -83,8 +83,8 @@ El empleador te envía un pago (conocido por los bancos como "remesa") el cual l
     Name: Tu nombre completo
     ID: 11.111.111-1 (tu rut)
     Beneficiary Account: xx-xxx-xxxxx-xx (el número de tu cuenta)
-    Bank: Banco de Chile - Santiago de Chile
-    Branch: Ahumada 251 - Santiago
+    Bank: <nombre del banco>, p.ej. Banco de Chile - Santiago de Chile
+    Branch: <dirección del banco>, p.ej. Ahumada 251 - Santiago
     Swift Code: Swift code de tu banco (consultar con ejecutivo de cuentas)
 
 **Tip**: No es muy común recibir pagos del extranjero, por lo que muchas veces los ejecutivos no tienen idea de esta información. Para evitar confusiones, siempre nombrar la palabra "remesa" al referirse a tu pago.
@@ -97,25 +97,25 @@ En ambos casos, los datos que debes enviar son los mismos, pero el funcionamient
 
 Tu pago puede verse afecto por dos comisiones:
 
-1. La comisión que le cobran al empleador por enviarte el dinero: supongo que depende del Banco, pero en mi caso son 20 USD.
+1. El cobro de los bancos intermediarios, que gira en torno a los 20 USD y que puede que se lo cobren a tu empleador.
     - **Tip**: intenga negociar que esto lo pague tu empleador y que no te lo descuenten del sueldo.
-2. La comisión que te cobra el banco chileno por recibir el dinero: depende del Banco.
+2. La comisión que te cobra el banco chileno por recibir el dinero: depende del Banco. En algunos casos, esta comisón es negociable si recibes periódicamente dinero.
 
 Las comisiones que tengo conocimiento son las siguientes:
 
-| Banco        | Comisión por recibir tu pago
-| ------------- |:-------------:|
-| BICE     | Gratis |
-| Scotiabank | Gratis |
-| Santander      |  ![Comisión Santander Recepción](https://user-images.githubusercontent.com/1679496/73072330-a1917300-3e93-11ea-9896-d14dd3ac37bb.png) ([fuente](https://www.santander.cl/tarifas_comisiones/productos/TransExterior.pdf))    |
-| Banco Edwards / Chile | ![Comisión Edwards Recepción](https://user-images.githubusercontent.com/1679496/73073148-7d369600-3e95-11ea-910f-584373ed63b5.png) ([fuente](https://transferwise.com/es/blog/transferencia-internacional-banco-chile)) |
-| Banco Estado | ![Comisión BancoEstado Recepción](https://user-images.githubusercontent.com/1679496/73072779-a30f6b00-3e94-11ea-8c54-fd958e5f5344.png) ([fuente](https://www.bancoestado.cl/imagenes/_personas/servicios/envio-de-dinero/exterior-chile.asp)) |
+| Banco                  | Comisión por recibir tu pago    |
+| -----------------------|:-------------------------------:|
+| BICE                   | Gratis                          |
+| Scotiabank             | Gratis                          |
+| Santander              | ![Comisión Santander Recepción](https://user-images.githubusercontent.com/1679496/73072330-a1917300-3e93-11ea-9896-d14dd3ac37bb.png) ([fuente](https://www.santander.cl/tarifas_comisiones/productos/TransExterior.pdf))    |
+| Banco Edwards / Chile  | ![Comisión Edwards Recepción](https://user-images.githubusercontent.com/1679496/73073148-7d369600-3e95-11ea-910f-584373ed63b5.png) ([fuente](https://transferwise.com/es/blog/transferencia-internacional-banco-chile)) |
+| Banco Estado           | ![Comisión BancoEstado Recepción](https://user-images.githubusercontent.com/1679496/73072779-a30f6b00-3e94-11ea-8c54-fd958e5f5344.png) ([fuente](https://www.bancoestado.cl/imagenes/_personas/servicios/envio-de-dinero/exterior-chile.asp)) |
 
 #### *Cuenta Corriente* o *Cuenta Vista en Chile*, en pesos chilenos (CLP)
 
 Una vez le pasaste los datos de transferencia a tu empleador:
 
-- él hará una transferencia del pago (en dólares) de su banco al tuyo.
+- te harán una transferencia del pago (en dólares) de su banco al tuyo.
 - el pago se demora 1 o dos días hábiles "en llegar".
 
 Ahora el dinero está a tu nombre, en Chile y en tu banco... pero no en tu cuenta. Recuerda que te llegaron USD, así que no puedes pasarlo directamente a tu cuenta en CLP. ¿Qué hacer?
@@ -125,9 +125,10 @@ Ahora el dinero está a tu nombre, en Chile y en tu banco... pero no en tu cuent
     - OJO 👀: pregunta en qué surcursal te pueden atender. BancoEstado tiene [sucursales especiales](https://www.bancoestado.cl/imagenes/_personas/noticias/detalle/sucursales-chilenos-exterior.asp) para esto.
 3. En el mesón de atención de cliente, solicita tus dólares.
     - OJO 👀: en BancoEstado tienes que hablar con el ejecutivo de "Inversiones".
-4. El ejecutivo te generará un Voucher que debes pagar en caja (son las comisiones del Banco, ver sección anterior)
-5. Con el número que ya sacaste, espera tu turno en Caja.
-6. En Caja, paga la comisión del Banco y aquí puedes pedir los dólares en efectivo o que te abonen los dólares a tu cuenta vista. Los dólares en efectivo te sirven por si quieres venderlo a alguien que te de más dinero por ellos.
+4. El ejecutivo te generará un voucher que debes pagar en caja (son las comisiones del banco, ver sección anterior)
+    - En algunos bancos, como el Itaú, te descuentan directamente de tu cuenta corriente
+5. Con el número que ya sacaste, espera tu turno en caja.
+6. En caja, paga la comisión del banco y aquí puedes pedir los dólares en efectivo o que te abonen los dólares a tu cuenta o pagar tu tarjeta de crédito. Los dólares en efectivo te sirven por si quieres venderlo a alguien que te de más dinero por ellos.
   
 Nota personal: creo que en todos los bancos va a ser parecido. Espero que alguno tenga opción para hacer este trámite _remotamente_... sin embargo, si vas a recibir muchos sueldos, es mejor recibir en una cuenta corriente en dólares.
 
@@ -135,11 +136,11 @@ Nota personal: creo que en todos los bancos va a ser parecido. Espero que alguno
 
 Una vez le pasaste los datos de transferencia a tu empleador:
 
-- él hará una transferencia del pago (en dólares) de su banco al tuyo.
+- te harán hará una transferencia del pago (en dólares) de su banco al tuyo.
 - el pago se demora 1 o dos días hábiles "en llegar".
 - el pago llega y estará disponible en tu cuenta corriente en dólares ✌️
 - ahora puedes vender dólares, y los pesos chilenos serán depositados en tu cuenta corriente
-- ah y también puedes pagar tu cuenta internacional (ej: tus compras de AliExpress o Uber) directamente con tus dólares 😉 
+- también puedes pagar tu cuenta internacional (ej: tus compras de AliExpress o Uber) directamente con tus dólares 😉 
 
 Es muy cómo que el pago te llegue y que más encima puedas venderlos sin ir a una oficina con depósito a tu cuenta en CLP.
 
@@ -160,29 +161,29 @@ Dile a tu ejecutivo que quieres abrir cuenta en dólares porque recibes tu sueld
 
 **¿Cuáles son las comisiones de una cuenta corriente en dólares?**
 
-| Banco        | Comisión por recibir tu pago
-| ------------- |:-------------:|
-|Santander| $0 ([fuente](https://banco.santander.cl/tarifas-y-comisiones/santander/cuenta-corriente/archivos/cuenta-corriente-moneda-extranjera)) |
-| BICE | $0 |
+| Banco         | Comisión por recibir tu pago   |
+|---------------|:------------------------------:|
+| Santander     | $0 ([fuente](https://banco.santander.cl/tarifas-y-comisiones/santander/cuenta-corriente/archivos/cuenta-corriente-moneda-extranjera)) |
+| BICE          | $0                             |
 | Scotiabank | ![Comision cuenta corriente USD Scotiabank](https://user-images.githubusercontent.com/1679496/73074576-b9b7c100-3e98-11ea-9952-a7f938c50b49.png) |
 
 #### Tipo de Cambio
 
 El tipo de cambio depende de cómo vendas tus dólares:
 
-1. si vendes en sucursal, *creo* que el precio es más conservador (y por ende menor) a otros medios.
-    - a veces conviene cruzar la calle para ir a venderlos al Banco de al frente (mientras no haya mucha fila...)
+1. si vendes en sucursal, el precio tiende a ser más conservador (y por ende menor) a otros medios.
+    - a veces conviene cruzar la calle para ir a venderlos al Banco de al frente (mientras no haya mucha fila...), o a una casa de cambios, pero tendrás que esperar que la viejita revise cada billete
 2. si vendes en página web desde tu cuenta corriente (o llamando a tu ejecutivo) el precio varía según mercado. Es decir, un mismo día pueden haber muchas variaciones. Mi experiencia con esta modalidad ha sido:
-    - Banco BICE: valor que te dan es muy similar al de https://valor-dolar.cl/
-    - Banco Scotiabank: valor inferior al de https://valor-dolar.cl/ (5-10 pesos)
+    - Banco BICE: valor que te dan es muy similar al de [valor-dolar.cl](https://valor-dolar.cl/)
+    - Banco Scotiabank: valor inferior al de valor-dolar.cl (5-10 pesos)
  
 #### TLDR;
 
 - Tu empleador te puede enviar USD a tu cuenta chilena.
-- Aquí hay comisiones que le cobran a él por enviar (~20USD) y a ti por recibir (~0.6%, aunque en algunos bancos no te cobran).
+- Aquí hay comisiones que le cobran a este por enviar (~20USD) y a ti por recibir (~0.6%, aunque en algunos bancos no te cobran).
 - Puedes recibir tu pago en cualquier tipo de cuenta (incluso cuenta RUT) aunque en cuentas vistas pueden haber límites de montos.
-- Si recibes en cuenta corriente en pesos Chilenos, tienes que ir a sucursal a retirar los dólares 🙃. Ahí puedes venderlos al mismo banco PERO considera que el tipo de cambio es conservador.
-- Si recibes en cuenta corriente en dólares, el abono se hace automáticamente y puedes vender los dólares a través de las plataformas web o llamando a tu ejetutiv@. El tipo de cambio varía con el mercado, un mismo día pueden haber distintos valores. Compara el valor que te ofrecen con el de la página [valor-dolar](https://valor-dolar.cl/).
+- Si recibes en cuenta corriente en pesos Chilenos, tienes que ir a sucursal a retirar los dólares 🙃. Ahí puedes venderlos al mismo banco, _pero_ considera que el tipo de cambio es conservador.
+- Si recibes en cuenta corriente en dólares, el abono se hace automáticamente y puedes vender los dólares a través de las plataformas web o llamando a tu ejetutiv@. El tipo de cambio varía con el mercado, un mismo día pueden haber distintos valores. Compara el valor que te ofrecen con el de la página [valor-dolar.cl](https://valor-dolar.cl/).
 - Para abrir cuenta en dólares te pueden pedir ciertos requisitos, preguntar a ejecutiv@.
 - Uno de los mejores bancos para recibir dinero del exterior es el BICE por las siguientes razones:
     - cuenta corriente en dólares no tiene costo
@@ -242,9 +243,9 @@ Todo esto el SII lo calcula por ti en la propuesta de declaración de impuestos,
 Por ejemplo, si ganaste $20.000.000 en el 2019, quedarías en el 3er tramo, 8%. Pero de esto se substraen tus cotizaciones previsionales, salud, APV, gastos, etc. Con, esto, supongamos que quedas en $15.000.000, en el tramo 4%. Pero esto no significa que pagues 4% por todos tus impuestos, solo por los de ese tramo. Entonces, pagas: `($15.000.000 - $8.038.926) * 0,04 = $278.443`, un impuesto efectivo de 1,4% sobre los 20 millones que ganaste.
 
 La columna "a rebajar" sirve para simplificar el cálculo cuando ganas más (no tener que estar calculando cada tramo por separado y luego sumando). Por ejemplo si:
-* eres  🚀 y ganas 60.000.000
-* probablemente andes llanteando que tus impuestos son de más de 30%
-* solo deduciste 10 millones (fácil deducir más)
+* eres 🚀 y ganas 60.000.000
+* probablemente andes #llanteando que tus impuestos son de más de 30%
+* sólo deduciste 10 millones (fácil deducir más)
 * base imponible es de 50 palos
 * usas la fila de factor 0,23 y calculas `$50.000.000 * 0,23 - $6.633.602,64 = $4.866.397`
 * eso es un 8,1% de impuesto efectivo
@@ -253,26 +254,19 @@ La columna "a rebajar" sirve para simplificar el cálculo cuando ganas más (no 
 
 Las cotizaciones de los trabajadores independientes se calculan en su declaración de renta anual. Entre los años 2019 y 2027 puedes elegir entre una cotización total o parcial. El 2019 la cotización parcial fue 5% de la total e irá subiendo todos los años.
 
-Si pagas total, la AFP corresponde a 10% de tu base imponible (que es lo que ganaste el año anterior con un tope de aprox 80UF por mes), más la comisión de la AFP. Por ejemplo si ganaste 1 millón al mes, y la comisón de AFP es 1.5% pagarás `$1.000.000 * 12 * 0,1115 ~= $1.340.000`, mientras que si ganaste 3 millones al mes pagarás lo mismo que si ganaras 2.3 millones, que es aproximadamente el tope: `$2.300.000 * 12 * 0,115 ~= $3.000.000`.
+Si pagas _total_, la AFP corresponde a 10% de tu base imponible (que es lo que ganaste el año anterior con un tope de aprox 80UF por mes), más la comisión de la AFP. Por ejemplo si ganaste 1 millón al mes, y la comisón de AFP es 1.5% pagarás `$1.000.000 * 12 * 0,1115 ~= $1.340.000`, mientras que si ganaste 3 millones al mes pagarás lo mismo que si ganaras 2.3 millones, que es aproximadamente el tope: `$2.300.000 * 12 * 0,115 ~= $3.000.000`.
 
-El monto que pagas en salud, si optas por total depende del plan de Isapre que tengas, o si estás en Fonasa pagas un 7%, también considerando la base imponible del párrafo anterior.
+El monto que pagas en salud, si optas por _cobertura total_, depende del plan de Isapre que tengas, o si estás en Fonasa pagas un 7%, también considerando la base imponible del párrafo anterior.
 
-Si optas por cotización parcial, pagarás mucho menos, pero quedarás con cobertura parcial de salud a menos que pagues la diferencia durante el año. Y obviamente, ahorras menos en tu AFP. El porcentaje que pagas en cotización parcial comparado con total es:
+Si optas por _cotización parcial_, pagarás mucho menos, pero quedarás con cobertura parcial de salud a menos que pagues la diferencia durante el año. Y obviamente, ahorras menos en tu AFP. El porcentaje que pagas en cotización parcial comparado con total es:
 
-| Año  | Porcentaje |
-|------|------------|
-| 2020 | 17%        |
-| 2021 | 27%        |
-| 2022 | 37%        |
-| 2023 | 47%        |
-| 2024 | 57%        |
-| 2025 | 70%        |
-| 2026 | 80%        |
-| 2027 | 90%        |
+| 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026 | 2027 |
+|------|------|------|------|------|------|------|------|
+| 17%  | 27%  | 37%  | 47%  | 57%  | 70%  | 80%  | 90%  |
 
-Además de AFP y Salud, pagas algunas cosas chicas como seguros de invalidez y de accidentes de trabajo.
+El SII tiene [algunos ejemplos online](http://www.sii.cl/destacados/renta/2019/casos_declarar.html) para entender mejor la diferencia entre cobertura total y parcial.
 
-El SII tiene [algunos ejemplos online](http://www.sii.cl/destacados/renta/2019/casos_declarar.html) para entender mejor esta diferencia.
+Además de AFP y Salud, pagas algunas cosas comparativamente chicas como seguros de invalidez y de accidentes de trabajo.
 
 ## Stock options/RSUs
 
