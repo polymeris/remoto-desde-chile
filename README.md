@@ -109,9 +109,12 @@ Las comisiones que tengo conocimiento son las siguientes:
 | -----------------------|:-------------------------------:|
 | BICE                   | Gratis                          |
 | Scotiabank             | Gratis                          |
+| Bci                    | *UM50 + IVA                     |
 | Santander              | ![Comisión Santander Recepción](https://user-images.githubusercontent.com/1679496/73072330-a1917300-3e93-11ea-9896-d14dd3ac37bb.png) ([fuente](https://www.santander.cl/tarifas_comisiones/productos/TransExterior.pdf))    |
 | Banco Edwards / Chile  | ![Comisión Edwards Recepción](https://user-images.githubusercontent.com/1679496/73073148-7d369600-3e95-11ea-910f-584373ed63b5.png) ([fuente](https://transferwise.com/es/blog/transferencia-internacional-banco-chile)) |
 | Banco Estado           | ![Comisión BancoEstado Recepción](https://user-images.githubusercontent.com/1679496/73072779-a30f6b00-3e94-11ea-8c54-fd958e5f5344.png) ([fuente](https://www.bancoestado.cl/imagenes/_personas/servicios/envio-de-dinero/exterior-chile.asp)) |
+
+*: UM es Unidad Monetaria, que representa la moneda de origen del depósito. Si te depositan dólares, te cobran US$50 + IVA.
 
 #### *Cuenta Corriente* o *Cuenta Vista en Chile*, en pesos chilenos (CLP)
 
@@ -123,15 +126,16 @@ Una vez le pasaste los datos de transferencia a tu empleador:
 Ahora el dinero está a tu nombre, en Chile y en tu banco... pero no en tu cuenta. Recuerda que te llegaron USD, así que no puedes pasarlo directamente a tu cuenta en CLP. ¿Qué hacer?
 
 1. Un buen banco con tecnología de punta (😂) te enviará un correo notificándote del pago. En otros casos, tienes que usar _polling_ (😭) y llamar hasta que te digan que llegó
-2. Ahora que ya sabes que están los dólares, debes ir a una surcursal
+2. Ahora que ya sabes que están los dólares, debes ir a una surcursal.
     - OJO 👀: pregunta en qué surcursal te pueden atender. BancoEstado tiene [sucursales especiales](https://www.bancoestado.cl/imagenes/_personas/noticias/detalle/sucursales-chilenos-exterior.asp) para esto.
+    - En el caso del **Bci**: Si bien el proceso es igual de manual que en los otros bancos, Bci permite hacerlo de manera remota, poniéndote en contacto con la ejecutiva que está a cargo de las operaciones en moneda extranjera, quien te enviará una carta para completar donde se define el tipo de cambio y las cuentas en las que se abonará el monto y de donde se descontará la comisión. Basado en experiencias personales, parece ser sólo una persona con su respectivo backup para todo el banco, pero suelen responder rápido.
 3. En el mesón de atención de cliente, solicita tus dólares.
     - OJO 👀: en BancoEstado tienes que hablar con el ejecutivo de "Inversiones".
 4. El ejecutivo te generará un voucher que debes pagar en caja (son las comisiones del banco, ver sección anterior)
     - En algunos bancos, como el Itaú, te descuentan directamente de tu cuenta corriente
 5. Con el número que ya sacaste, espera tu turno en caja.
 6. En caja, paga la comisión del banco y aquí puedes pedir los dólares en efectivo o que te abonen los dólares a tu cuenta o pagar tu tarjeta de crédito. Los dólares en efectivo te sirven por si quieres venderlo a alguien que te de más dinero por ellos.
-  
+
 Nota personal: creo que en todos los bancos va a ser parecido. Espero que alguno tenga opción para hacer este trámite _remotamente_... sin embargo, si vas a recibir muchos sueldos, es mejor recibir en una cuenta corriente en dólares.
 
 #### Cuenta corriente en Chile, en dólares
@@ -184,8 +188,8 @@ El tipo de cambio depende de cómo vendas tus dólares:
 - Tu empleador te puede enviar USD a tu cuenta chilena.
 - Aquí hay comisiones que le cobran a este por enviar (~20USD) y a ti por recibir (~0.6%, aunque en algunos bancos no te cobran).
 - Puedes recibir tu pago en cualquier tipo de cuenta (incluso cuenta RUT) aunque en cuentas vistas pueden haber límites de montos.
-- Si recibes en cuenta corriente en pesos Chilenos, tienes que ir a sucursal a retirar los dólares 🙃. Ahí puedes venderlos al mismo banco, _pero_ considera que el tipo de cambio es conservador.
-- Si recibes en cuenta corriente en dólares, el abono se hace automáticamente y puedes vender los dólares a través de las plataformas web o llamando a tu ejetutiv@. El tipo de cambio varía con el mercado, un mismo día pueden haber distintos valores. Compara el valor que te ofrecen con el de la página [valor-dolar.cl](https://valor-dolar.cl/).
+- Si recibes en cuenta corriente en pesos Chilenos, tienes que ir a sucursal a retirar los dólares 🙃, a menos que tengas una cuenta en el Bci. Ahí puedes venderlos al mismo banco, _pero_ considera que el tipo de cambio es conservador.
+- Si recibes en cuenta corriente en dólares, el abono se hace automáticamente y puedes vender los dólares a través de las plataformas web o llamando a tu ejecutiv@. El tipo de cambio varía con el mercado, un mismo día pueden haber distintos valores. Compara el valor que te ofrecen con el de la página [valor-dolar.cl](https://valor-dolar.cl/).
 - Para abrir cuenta en dólares te pueden pedir ciertos requisitos, preguntar a ejecutiv@.
 - Uno de los mejores bancos para recibir dinero del exterior es el BICE por las siguientes razones:
     - cuenta corriente en dólares no tiene costo
