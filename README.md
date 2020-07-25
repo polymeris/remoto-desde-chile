@@ -61,7 +61,7 @@ Si trabajas como freelancer por hora o día, cobra el doble, tienes que pagar la
 [Transferwise](https://transferwise.com/invite/u/camilop16) (link con invite) te da una especie de cuenta virtual dónde tu empleador puede depositar como si tuvieras una cuenta en EEUU. Luego tu puedes transferir a cuentas en muchos países, incluyendo Chile.
 
 Limitaciones:
-* en el pasado ha tenido limitaciones de monto mensual, pero eso va cambiando, revisa su [centro de ayuda](https://transferwise.com/es/help/14/monedas)
+* en el pasado ha tenido limitaciones de monto mensual, pero a Julio 2020 no las hay
 
 Ventajas:
 * relativamente barato (a menos que envies montos muy grandes)
@@ -103,7 +103,7 @@ Tu pago puede verse afecto por dos comisiones:
     - **Tip**: intenga negociar que esto lo pague tu empleador y que no te lo descuenten del sueldo.
 2. La comisión que te cobra el banco chileno por recibir el dinero: depende del Banco. En algunos casos, esta comisón es negociable si recibes periódicamente dinero.
 
-Las comisiones que tengo conocimiento son las siguientes:
+Las comisiones que tengo conocimiento son las siguientes (Info de Enero 2020):
 
 | Banco                  | Comisión por recibir tu pago    |
 | -----------------------|:-------------------------------:|
@@ -165,7 +165,7 @@ Dile a tu ejecutivo que quieres abrir cuenta en dólares porque recibes tu sueld
 - es normal que te pidan recibos de pagos anteriores si ya has recibido pagos anteriormente.
 - si te pagan mensualmente, díselo a tu ejecutivo. Darle el contexto completo siempre ayuda.
 
-**¿Cuáles son las comisiones de una cuenta corriente en dólares?**
+**¿Cuáles son las comisiones de una cuenta corriente en dólares?** (Info Enero 2020)
 
 | Banco         | Comisión por recibir tu pago   |
 |---------------|:------------------------------:|
