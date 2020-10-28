@@ -110,9 +110,9 @@ Las comisiones que tengo conocimiento son las siguientes (Info de Enero 2020):
 | BICE                   | Gratis                          |
 | Scotiabank             | Gratis                          |
 | Bci                    | *UM50 + IVA                     |
-| Santander              | ![Comisión Santander Recepción](https://user-images.githubusercontent.com/1679496/73072330-a1917300-3e93-11ea-9896-d14dd3ac37bb.png) ([fuente](https://www.santander.cl/tarifas_comisiones/productos/TransExterior.pdf))    |
-| Banco Edwards / Chile  | ![Comisión Edwards Recepción](https://user-images.githubusercontent.com/1679496/73073148-7d369600-3e95-11ea-910f-584373ed63b5.png) ([fuente](https://transferwise.com/es/blog/transferencia-internacional-banco-chile)) |
-| Banco Estado           | ![Comisión BancoEstado Recepción](https://user-images.githubusercontent.com/1679496/73072779-a30f6b00-3e94-11ea-8c54-fd958e5f5344.png) ([fuente](https://www.bancoestado.cl/imagenes/_personas/servicios/envio-de-dinero/exterior-chile.asp)) |
+| Santander              | ![Comisión Santander Recepción](img/comision-recepcion-usd-santander.png) ([fuente](https://www.santander.cl/tarifas_comisiones/productos/TransExterior.pdf))    |
+| Banco Edwards / Chile  | ![Comisión Edwards Recepción](img/comision-recepcion-usd-edwards.png) ([fuente](https://transferwise.com/es/blog/transferencia-internacional-banco-chile)) |
+| Banco Estado           | ![Comisión BancoEstado Recepción](img/comision-recepcion-usd-estado.png) ([fuente](https://www.bancoestado.cl/imagenes/_personas/servicios/envio-de-dinero/exterior-chile.asp)) |
 
 *: UM es Unidad Monetaria, que representa la moneda de origen del depósito. Si te depositan dólares, te cobran US$50 + IVA.
 
@@ -171,7 +171,7 @@ Dile a tu ejecutivo que quieres abrir cuenta en dólares porque recibes tu sueld
 |---------------|:------------------------------:|
 | Santander     | $0 ([fuente](https://banco.santander.cl/tarifas-y-comisiones/santander/cuenta-corriente/archivos/cuenta-corriente-moneda-extranjera)) |
 | BICE          | $0                             |
-| Scotiabank | ![Comision cuenta corriente USD Scotiabank](https://user-images.githubusercontent.com/1679496/73074576-b9b7c100-3e98-11ea-9952-a7f938c50b49.png) |
+| Scotiabank | ![Comision cuenta corriente USD Scotiabank](img/cuenta-usd-scotiabank.png) |
 
 #### Tipo de Cambio
 
