@@ -239,7 +239,7 @@ Hay distintos tipos de impuestos anuales, pero si tu ingreso principal es por bo
 El impuesto se aplica sobre tu "base imponible", que se calcula como `BASE_IMPONIBLE = SUELDO_BRUTO - GASTOS`, donde:
 
 - `SUELDO_BRUTO` es tu sueldo bruto anual.
-- `GASTOS` son tus gastos. Por defecto, se calculan como el 30% de tu ingreso bruto hasta un máximo de 15UTA (~9 millones). Lo que quiere decir que mientras no ganes más de ~30 millones, tu imponible es el 70% de tu bruto. OJO que las cotizaciones obligatorias se asumen dentro de `GASTOS`, así que no reducen directmente tu imponible para impuestos.
+- `GASTOS` son tus gastos. Por defecto, se calculan como el 30% de tu ingreso bruto hasta un máximo de 15UTA (~9 millones). Lo que quiere decir que mientras no ganes más de ~30 millones, tu imponible es el 70% de tu bruto. OJO que las cotizaciones obligatorias se asumen dentro de `GASTOS`, así que no reducen directamente tu imponible para impuestos.
 
 Con tu imponible en mano, ya puedes estimar cuanto pagarás de impuestos: `IMPUESTOS = BASE_IMPONIBLE * FACTOR - REBAJA`
 
