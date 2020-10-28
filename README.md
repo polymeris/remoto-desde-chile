@@ -54,6 +54,8 @@ GitLab es transparente con sus salarios y tiene [una calculadora online](https:/
 
 Si trabajas como freelancer por hora o día, cobra el doble, tienes que pagar las horas que pasarás buscando proyectos y el tiempo que te dejarán esperando.
 
+Recuerda que los montos que negocias son BRUTOS. Por recibir ese dinero, tendrás que pagar cotizaciones (para salud y jubilación) y además impuestos. Puedes ver más detalles en la sección ["Paga impuestos, salud y cotizaciones"](#paga-impuestos-salud-y-cotizaciones). Si quieres una aproximación rápida de lo que tendrás que pagar, puedes revisar [esta calculadora](https://impuestos.netlify.app/) ([Repo](https://github.com/muzk/impuestos)).
+
 ## Recibe tu sueldo
 
 ### Transferwise
@@ -224,7 +226,7 @@ Tienes la opción de pagar AFP y Salud mensualmente o anualmente. Más abajo se 
 La "operación renta" es el cálculo y pago de impuestos y cotizaciones que cada año tienes que hacer del año anterior. Por ejemplo en Abril del 2021 paga impuestos sobre lo que ganaste el año 2020.
 Si eres independiente en esta ocasión también tienes que pagar tus cotizaciones (TODO buscar excepciones).
 
-El cálculo del monto exacto es bastante complicado, pero **simplificando mucho** la idea general es que de la suma de lo que pagaste mensualmente se le restan los impuestos, salud y AFP. Si sobra, te devuelven. Si falta, te lo cobran.
+El cálculo del monto exacto es bastante complicado, pero **simplificando mucho** la idea general es que de la suma de lo que pagaste mensualmente se le restan los impuestos, salud y AFP. Si sobra, te devuelven. Si falta, te lo cobran. En línea de esta simplificación, puedes ver la ["Calculadora de impuestos"](https://impuestos.netlify.app/) que te ayuda a estimar cuánto le deberías pagar por impuestos y cotizaciones.
 
 El SII te prepara una propuesta de formulario F22 con la información que tiene de tus pagos mensuales y lo que le informan diversas instituciones.
 
@@ -232,9 +234,16 @@ La empresa para la que trabajas en el extranjero tendrá que declarar lo que te 
 
 #### Impuestos en la declaración anual
 
-Hay distintos tipos de impuestos anuales, pero si tu ingreso principal es por boletas a una empresa extranjera, te interesa el _Impuesto Global Complementario_. Este se aplica sobre la base imponible, esto es, lo que ganaste el año anterior, menos todas las cosas que le puedas deducir, como cotizaciones, APV, gastos presuntos, etc. 
+Hay distintos tipos de impuestos anuales, pero si tu ingreso principal es por boletas a una empresa extranjera, te interesa el _Impuesto Global Complementario_.
 
-Todo esto el SII lo calcula por ti en la propuesta de declaración de impuestos, pero si quieres saber (o al menos, estimar) cuanto pagarás puedes usar la tabla impuesto global complementario (ejemplo declaración 2020):
+El impuesto se aplica sobre tu "base imponible", que se calcula como `BASE_IMPONIBLE = SUELDO_BRUTO - GASTOS`, donde:
+
+- `SUELDO_BRUTO` es tu sueldo bruto anual.
+- `GASTOS` son tus gastos. Por defecto, se calculan como el 30% de tu ingreso bruto hasta un máximo de 15UTA (~9 millones). Lo que quiere decir que mientras no ganes más de ~30 millones, tu imponible es el 70% de tu bruto. OJO que las cotizaciones obligatorias se asumen dentro de `GASTOS`, así que no reducen directamente tu imponible para impuestos.
+
+Con tu imponible en mano, ya puedes estimar cuanto pagarás de impuestos: `IMPUESTOS = BASE_IMPONIBLE * FACTOR - REBAJA`
+
+El `FACTOR` y `REBAJA` extraen de la "tabla impuesto global complementario" (ejemplo declaración 2020):
 
 | desde        | hasta       | factor | a rebajar      |
 |-------------:|------------:|:-------|---------------:|
@@ -246,23 +255,24 @@ Todo esto el SII lo calcula por ti en la propuesta de declaración de impuestos,
 | $53.592.840  | $71.457.120 | 0,304  | $10.599.472,80 |
 | $71.457.120  | y más       | 0,35   | $13.886.500,32 |
 
-Por ejemplo, si ganaste $20.000.000 en el 2019, quedarías en el 3er tramo, 8%. Pero de esto se substraen tus cotizaciones previsionales, salud, APV, gastos, etc. Con, esto, supongamos que quedas en $15.000.000, en el tramo 4%. Pero esto no significa que pagues 4% por todos tus impuestos, solo por los de ese tramo. Entonces, pagas: `($15.000.000 - $8.038.926) * 0,04 = $278.443`, un impuesto efectivo de 1,4% sobre los 20 millones que ganaste.
+Por ejemplo, si tu bruto fue $20.000.000 en el 2019, quiere decir que tu base imponible es `0.7 * 20M = 14.000.000`. Si miras la tabla, estás en el tramo del 4% (`FACTOR = 0.04` y `REBAJA = 321.557,04`). Finalmente, usando la fórmula, el impuesto es igual a `14.000.000 * 0.04 - 321.557,04 = $238.442,96`. Un impuesto efectivo de ~1.19% sobre los 20 millones que ganaste.
 
-La columna "a rebajar" sirve para simplificar el cálculo cuando ganas más (no tener que estar calculando cada tramo por separado y luego sumando). Por ejemplo si:
-* eres 🚀 y ganas 60.000.000
-* probablemente andes #llanteando que tus impuestos son de más de 30%
-* sólo deduciste 10 millones (fácil deducir más)
-* base imponible es de 50 palos
-* usas la fila de factor 0,23 y calculas `$50.000.000 * 0,23 - $6.633.602,64 = $4.866.397`
-* eso es un 8,1% de impuesto efectivo
+Si eres 🚀 y ganas $60.000.000, el cálculo queda así:
+- Para los gastos: como el 30% de 60M es mayor a 15UTA, tus gastos quedan en 15UTA (aproximadamente 9 millones).
+- Así que tu imponible es igual a `60M - 9M = 51M`
+- Con este imponible quedas en el tramo `0,23`
+- Así que usando la fila de factor 0,23 calculas el impuesto `$51.000.000 * 0,23 - $6.633.602,64 = $5.096.397,36`
+- Eso es un ~8,5% de impuesto efectivo
 
 #### Cotizaciones en la declaración anual
 
-Las cotizaciones de los trabajadores independientes se calculan en su declaración de renta anual. Entre los años 2019 y 2027 puedes elegir entre una cotización total o parcial. El 2019 la cotización parcial fue 5% de la total e irá subiendo todos los años.
+Las cotizaciones de los trabajadores independientes se calculan en su declaración de renta anual. Entre los años 2019 y 2027 puedes elegir entre una cotización total o parcial. En la cotización total, cotizas por el 100% de tu base imponible, mientras que en la parcial cotizas por un porcentaje de tu base imponible (pagas menos). En el 2019, la parcial era un 5% (va subiendo año a año hasta llegar al 100%).
 
-Si pagas _total_, la AFP corresponde a 10% de tu base imponible (que es lo que ganaste el año anterior con un tope de aprox 80UF por mes), más la comisión de la AFP. Por ejemplo si ganaste 1 millón al mes, y la comisón de AFP es 1.5% pagarás `$1.000.000 * 12 * 0,1115 ~= $1.340.000`, mientras que si ganaste 3 millones al mes pagarás lo mismo que si ganaras 2.3 millones, que es aproximadamente el tope: `$2.300.000 * 12 * 0,115 ~= $3.000.000`.
+El cálculo de las cotizaciones se hace sobre una base imponible diferente a la que se usa para calcular tus impuestos. Esta base imponible es igual al 80% de tu sueldo bruto ([fuente](http://www.sii.cl/ayudas/ayudas_por_servicios/2032-cp-2035.html)) hasta un máximo de 962,4UF anual ([fuente](https://www.spensiones.cl/portal/institucional/594/w3-article-13843.html)).
 
-El monto que pagas en salud, si optas por _cobertura total_, depende del plan de Isapre que tengas, o si estás en Fonasa pagas un 7%, también considerando la base imponible del párrafo anterior.
+El pago a la AFP corresponde a un 10% de tu base imponible + comisión. Por ejemplo, si el año anterior ganaste 1 millón al mes, y la comisión de la AFP es 1.5% pagarás `$1.000.000 * 12 * 0,1115 * 0.8 ~= $1.070.400`, mientras que si ganaste 3 millones al mes pagarás lo mismo que si ganaras ~2 millones, que es aproximadamente el tope: `$2.000.000 * 12 * 0.8 * 0,115 ~= $2.208.000`. Si te vas por _parcial_ (5%), lo que tendrás que pagar es el 5% de cada uno de esos montos. Es decir, `1.070.400 * 0.05 = $53.520` y `2.208.000 * 0.05 = $110.400`.
+
+El monto que pagas en salud es igual al 7% de la base imponible, independiente si estás en isapre o en fonasa. Si estás en isapre, el 7% va a ser mayor o menor que el monto que pagas en tu plan. Si es mayor, habrá un exceso que la isapre debería devolverte. Si es menor, mes a mes tendrás que pagar la diferencia.
 
 Si optas por _cotización parcial_, pagarás mucho menos, pero quedarás con cobertura parcial de salud a menos que pagues la diferencia durante el año. Y obviamente, ahorras menos en tu AFP. El porcentaje que pagas en cotización parcial comparado con total es:
 
@@ -272,7 +282,7 @@ Si optas por _cotización parcial_, pagarás mucho menos, pero quedarás con cob
 
 El SII tiene [algunos ejemplos online](http://www.sii.cl/destacados/renta/2019/casos_declarar.html) para entender mejor la diferencia entre cobertura total y parcial.
 
-Además de AFP y Salud, pagas algunas cosas comparativamente chicas como seguros de invalidez y de accidentes de trabajo.
+Además de AFP y Salud, pagas algunas cosas comparativamente chicas como seguros de invalidez y de accidentes de trabajo. El porcentaje que pagas en esos items es el 2.46%, sobre tu base imponible total (no puedes optar parcial en estos casos).
 
 ## Stock options/RSUs
 
