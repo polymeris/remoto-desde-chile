@@ -50,7 +50,14 @@ Hay muchísimas plataformas online para buscar trabajo remoto, pero los mejores 
 
 Harto. Por favor, aprovecha que hay demanda de desarrolladores y cobra caro, nos beneficia a todes que "desarrollador/a en Chile" no sea sinónimo de bajo presupuesto.
 
-GitLab es transparente con sus salarios y tiene [una calculadora online](https://about.gitlab.com/handbook/people-group/global-compensation/calculator/), para que lo uses de punto de partida. Parte negociando con un 20-30% más de lo que dice la calculadora.
+Si no tienes idea cuánto es "harto", estas son nuestras sugerencias:
+
+* Junior, literalmente recién formado: 70.000 dólares al año
+* Senior, capaz de trabajar independiente y consistemente entregar buenos resultados: 90.000 dólares al año
+* Staff o Team Lead, además de los aspectos técnicos de un senior, con habilidades de liderazgo: 110.000 dólares al año
+* Senior Staff+... espero que a estas alturas ya tengas una idea
+
+Parte negociando con un 20-30% más de lo que quieres.
 
 Si trabajas como freelancer por hora o día, cobra el doble, tienes que pagar las horas que pasarás buscando proyectos y el tiempo que te dejarán esperando.
 
