@@ -225,7 +225,7 @@ Si tu retuviste el Pago Provisional Mensual al emitir la boleta, debes declarar 
 Nota: El porcentaje de retención de 11,5% es para el año comercial 2021 , e irá aumentando:
 
 |2021  | 2022  | 2023  | 2024  | 2025  | 2026  | 2027  | 2028 |
-|--------------------------------------------------------------
+|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:----:|
 |11,5% |12,15% | 13%   |13,75% | 14,5% |15,25% | 16%   |  17% |
 
 ### Cotizaciones mensuales
