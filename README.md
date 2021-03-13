@@ -114,7 +114,7 @@ Tu pago puede verse afecto por dos comisiones:
 
 Las comisiones que tengo conocimiento son las siguientes (Info de Enero 2020):
 
-| Banco                  | Comisión por recibir tu pago    |
+| Banco                  | Comisión por mantención mensual |
 | -----------------------|:-------------------------------:|
 | BICE                   | Gratis                          |
 | Scotiabank             | Gratis                          |
