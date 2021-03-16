@@ -201,10 +201,11 @@ El tipo de cambio depende de cómo vendas tus dólares:
 - Si recibes en cuenta corriente en dólares, el abono se hace automáticamente y puedes vender los dólares a través de las plataformas web o llamando a tu ejecutiv@. El tipo de cambio varía con el mercado, un mismo día pueden haber distintos valores. Compara el valor que te ofrecen con el de la página [valor-dolar.cl](https://valor-dolar.cl/).
 - Para abrir cuenta en dólares te pueden pedir ciertos requisitos, preguntar a ejecutiv@.
 - Uno de los mejores bancos para recibir dinero del exterior es el BICE por las siguientes razones:
-    - cuenta corriente en dólares no tiene costo adicional (pero ojo que para abrir la cuenta corriente tienes que abrir tarjeta de crédito, linea de crédito y  tarjeta de debito, [lo que tiene un costo de alrededor de ~13000 mensuales](https://multimedia.bice.cl/tarifas/TarifasPersonas.pdf)).
+    - cuenta corriente en dólares no tiene costo adicional. Para poder abrirla necesitaras cuenta corriente en pesos, línea de crédito y tarjeta de crédito (te abren todo junto). Por la tarjeta de débito de la cuenta corriente te cobran ~$5400 mensuales, por la línea de crédito 1 UF anual más 0.4% del saldo de tu linea de crédito, y la tarjeta de crédito Visa Gold no tiene comisión de uso (ojo que hay otras que sí). [Tarifario Bice](https://multimedia.bice.cl/tarifas/TarifasPersonas.pdf).
     - no hay comisión por recibir el dinero
     - el tipo de cambio es muy cercano al de la página valor-dolar
     - si bien la barrera de entrada al banco es alta (es ABC1 😂) te piden pocas cosas para la cuenta en dólares
+  
 
 ## Paga impuestos, salud y cotizaciones
 
