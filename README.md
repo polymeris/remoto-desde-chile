@@ -92,17 +92,19 @@ Ventajas:
 El empleador te envía un pago (conocido por los bancos como "remesa") el cual llega a Chile directamente a tu banco. Para que te puedan enviar este dinero a tu nombre, tienes que entregar los siguientes datos a tu empleador:
 
     Name: Tu nombre completo
-    ID: 11.111.111-1 (tu rut)
+    ID: XX.XXX.XXX-X (tu rut)
     Beneficiary Account: xx-xxx-xxxxx-xx (el número de tu cuenta)
     Bank: <nombre del banco>, p.ej. Banco de Chile - Santiago de Chile
     Branch: <dirección del banco>, p.ej. Ahumada 251 - Santiago
     Swift Code: Swift code de tu banco (consultar con ejecutivo de cuentas)
 
+Algunos bancos proporcionan información adicional (como datos de un banco intermediario) y códigos [SWIFT](https://www.investopedia.com/terms/s/swift.asp) asociados, por lo que es recomendable consultar con tu ejecutivo.
+
 **Tip**: No es muy común recibir pagos del extranjero, por lo que muchas veces los ejecutivos no tienen idea de esta información. Para evitar confusiones, siempre nombrar la palabra "remesa" al referirse a tu pago.
 
 Puedes recibir tus pagos en cualquier cuenta corriente o vista (ejemplo: [Cuenta RUT](https://www.bancoestado.cl/imagenes/_personas/productos/cuentas/cuenta-rut-home.asp)) que tengas. Sin embargo, siempre consulta con tu ejecutivo de cuentas para proceder. Otra opción es obtener cuenta corriente en dólares y recibir el dinero ahí.
 
-En ambos casos, los datos que debes enviar son los mismos, pero el funcionamiento (como obtienes finalmente tu dinero) es distinto.
+En ambos casos, los datos que debes enviar son los mismos, pero el funcionamiento (cómo obtienes finalmente tu dinero) es distinto.
 
 #### Comisiones por recibir tu dinero
 
@@ -112,16 +114,16 @@ Tu pago puede verse afecto por dos comisiones:
     - **Tip**: intenga negociar que esto lo pague tu empleador y que no te lo descuenten del sueldo.
 2. La comisión que te cobra el banco chileno por recibir el dinero: depende del Banco. En algunos casos, esta comisón es negociable si recibes periódicamente dinero.
 
-Las comisiones que tengo conocimiento son las siguientes (Info de Enero 2020):
+Las comisiones de las que tenemos conocimiento son las siguientes:
 
-| Banco                  | Comisión por recibir tu pago    |
-| -----------------------|:-------------------------------:|
-| BICE                   | Gratis                          |
-| Scotiabank             | Gratis                          |
-| Bci                    | *UM50 + IVA                     |
-| Santander              | ![Comisión Santander Recepción](img/comision-recepcion-usd-santander.png) ([fuente](https://www.santander.cl/tarifas_comisiones/productos/TransExterior.pdf))    |
-| Banco Edwards / Chile  | ![Comisión Edwards Recepción](img/comision-recepcion-usd-edwards.png) ([fuente](https://transferwise.com/es/blog/transferencia-internacional-banco-chile)) |
-| Banco Estado           | ![Comisión BancoEstado Recepción](img/comision-recepcion-usd-estado.png) ([fuente](https://www.bancoestado.cl/imagenes/_personas/servicios/envio-de-dinero/exterior-chile.asp)) |
+| Banco                  | Comisión por recibir tu pago    | Vigencia desde |
+| -----------------------|:-------------------------------:|:--------------:|
+| BICE                   | ![Comisión BICE Recepción](img/comision-recepcion-usd-bice.png) ([fuente](https://www.bice.cl/documentos/Tarifas-y-Comisiones-Banca-Personas-Agosto-2021.pdf)) | Agosto 2021 |
+| Scotiabank             | Gratis                          | |
+| Bci                    | *UM50 + IVA                     | |
+| Santander              | ![Comisión Santander Recepción](img/comision-recepcion-usd-santander.png) ([fuente](https://www.santander.cl/tarifas_comisiones/productos/TransExterior.pdf))    | |
+| Banco Edwards / Chile  | ![Comisión Edwards Recepción](img/comision-recepcion-usd-edwards.png) ([fuente](https://transferwise.com/es/blog/transferencia-internacional-banco-chile)) | |
+| Banco Estado           | ![Comisión BancoEstado Recepción](img/comision-recepcion-usd-estado.png) ([fuente](https://www.bancoestado.cl/imagenes/_personas/servicios/envio-de-dinero/exterior-chile.asp)) | |
 
 *: UM es Unidad Monetaria, que representa la moneda de origen del depósito. Si te depositan dólares, te cobran US$50 + IVA.
 
@@ -176,11 +178,13 @@ Dile a tu ejecutivo que quieres abrir cuenta en dólares porque recibes tu sueld
 
 **¿Cuáles son las comisiones de una cuenta corriente en dólares?** (Info Enero 2020)
 
-| Banco         | Comisión por recibir tu pago   |
-|---------------|:------------------------------:|
+| Banco         | Comisión por mantención de cuenta MX* |
+|---------------|:------------------------------------:|
 | Santander     | $0 ([fuente](https://banco.santander.cl/tarifas-y-comisiones/santander/cuenta-corriente/archivos/cuenta-corriente-moneda-extranjera)) |
-| BICE          | $0                             |
+| BICE          | $0 ([fuente](https://www.bice.cl/documentos/Tarifas-y-Comisiones-Banca-Personas-Agosto-2021.pdf)) |
 | Scotiabank | ![Comision cuenta corriente USD Scotiabank](img/cuenta-usd-scotiabank.png) |
+
+MX significa "moneda extranjera".
 
 #### Tipo de Cambio
 
@@ -201,8 +205,7 @@ El tipo de cambio depende de cómo vendas tus dólares:
 - Si recibes en cuenta corriente en dólares, el abono se hace automáticamente y puedes vender los dólares a través de las plataformas web o llamando a tu ejecutiv@. El tipo de cambio varía con el mercado, un mismo día pueden haber distintos valores. Compara el valor que te ofrecen con el de la página [valor-dolar.cl](https://valor-dolar.cl/).
 - Para abrir cuenta en dólares te pueden pedir ciertos requisitos, preguntar a ejecutiv@.
 - Uno de los mejores bancos para recibir dinero del exterior es el BICE por las siguientes razones:
-    - cuenta corriente en dólares no tiene costo adicional. Para poder abrirla necesitaras cuenta corriente en pesos, línea de crédito y tarjeta de crédito (te abren todo junto). Por la tarjeta de débito de la cuenta corriente te cobran ~$5400 mensuales, por la línea de crédito 1 UF anual más 0.4% del saldo de tu linea de crédito, y la tarjeta de crédito Visa Gold no tiene comisión de uso (ojo que hay otras que sí). [Tarifario Bice](https://multimedia.bice.cl/tarifas/TarifasPersonas.pdf).
-    - no hay comisión por recibir el dinero
+    - cuenta corriente en dólares no tiene costo adicional. Para poder abrirla necesitaras cuenta corriente en pesos, línea de crédito y tarjeta de crédito (te abren todo junto). Por la tarjeta de débito de la cuenta corriente te cobran ~$5400 mensuales, por la línea de crédito 1 UF anual más 0.4% del saldo de tu linea de crédito, y la tarjeta de crédito Visa Gold no tiene comisión de uso (ojo que hay otras que sí). [Tarifario Bice](https://www.bice.cl/documentos/Tarifas-y-Comisiones-Banca-Personas-Agosto-2021.pdf).
     - el tipo de cambio es muy cercano al de la página valor-dolar
     - si bien la barrera de entrada al banco es alta (es ABC1 😂) te piden pocas cosas para la cuenta en dólares
   
