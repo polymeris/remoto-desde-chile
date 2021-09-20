@@ -122,6 +122,7 @@ Las comisiones que tengo conocimiento son las siguientes (Info de Enero 2020):
 | Santander              | ![Comisión Santander Recepción](img/comision-recepcion-usd-santander.png) ([fuente](https://www.santander.cl/tarifas_comisiones/productos/TransExterior.pdf))    |
 | Banco Edwards / Chile  | ![Comisión Edwards Recepción](img/comision-recepcion-usd-edwards.png) ([fuente](https://transferwise.com/es/blog/transferencia-internacional-banco-chile)) |
 | Banco Estado           | ![Comisión BancoEstado Recepción](img/comision-recepcion-usd-estado.png) ([fuente](https://www.bancoestado.cl/imagenes/_personas/servicios/envio-de-dinero/exterior-chile.asp)) |
+| Itaú                   | ![Comisión Itaú Recepción](https://user-images.githubusercontent.com/8508658/134077751-9ed1bdaa-ffa2-49c3-8143-5b7bc82a0e98.png) |
 
 *: UM es Unidad Monetaria, que representa la moneda de origen del depósito. Si te depositan dólares, te cobran US$50 + IVA.
 
@@ -180,7 +181,9 @@ Dile a tu ejecutivo que quieres abrir cuenta en dólares porque recibes tu sueld
 |---------------|:------------------------------:|
 | Santander     | $0 ([fuente](https://banco.santander.cl/tarifas-y-comisiones/santander/cuenta-corriente/archivos/cuenta-corriente-moneda-extranjera)) |
 | BICE          | $0                             |
-| Scotiabank | ![Comision cuenta corriente USD Scotiabank](img/cuenta-usd-scotiabank.png) |
+| Scotiabank    | ![Comision cuenta corriente USD Scotiabank](img/cuenta-usd-scotiabank.png) |
+| Itaú          | $0                             |
+
 
 #### Tipo de Cambio
 
