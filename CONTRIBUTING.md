@@ -1,5 +1,7 @@
 Para contribuir puedes abrir un pull request en GitHub.
 
+Por favor, publica en `#remoto` de devschile o mándame un DM (`@polymeris`), muchas veces no me doy cuenta que hay un PR abierto.
+
 ## Contenidos
 
 La idea es responder las dudas más frecuentes que tienen los devs cuando nunca han trabajado remoto.
