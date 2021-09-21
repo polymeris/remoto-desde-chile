@@ -118,12 +118,12 @@ Las comisiones de las que tenemos conocimiento son las siguientes:
 
 | Banco                  | Comisión por recibir tu pago    | Vigencia desde |
 | -----------------------|:-------------------------------:|:--------------:|
-| BICE                   | ![Comisión BICE Recepción](img/comision-recepcion-usd-bice.png) ([fuente](https://www.bice.cl/documentos/Tarifas-y-Comisiones-Banca-Personas-Agosto-2021.pdf)) | Agosto 2021 |
-| Scotiabank             | Gratis                          | |
-| Bci                    | *UM50 + IVA                     | |
-| Santander              | ![Comisión Santander Recepción](img/comision-recepcion-usd-santander.png) ([fuente](https://www.santander.cl/tarifas_comisiones/productos/TransExterior.pdf))    | |
-| Banco Edwards / Chile  | ![Comisión Edwards Recepción](img/comision-recepcion-usd-edwards.png) ([fuente](https://transferwise.com/es/blog/transferencia-internacional-banco-chile)) | |
-| Banco Estado           | ![Comisión BancoEstado Recepción](img/comision-recepcion-usd-estado.png) ([fuente](https://www.bancoestado.cl/imagenes/_personas/servicios/envio-de-dinero/exterior-chile.asp)) | |
+| BICE                   | ![Comisión BICE Recepción](img/comision-recepcion-usd-bice.png) ([fuente](https://www.bice.cl/documentos/Tarifas-y-Comisiones-Banca-Personas-Agosto-2021.pdf)) | Agosto 2021 || Scotiabank             | Gratis                          |
+| Bci                    | *UM50 + IVA                     |
+| Santander              | ![Comisión Santander Recepción](img/comision-recepcion-usd-santander.png) ([fuente](https://www.santander.cl/tarifas_comisiones/productos/TransExterior.pdf))    |
+| Banco Edwards / Chile  | ![Comisión Edwards Recepción](img/comision-recepcion-usd-edwards.png) ([fuente](https://transferwise.com/es/blog/transferencia-internacional-banco-chile)) |
+| Banco Estado           | ![Comisión BancoEstado Recepción](img/comision-recepcion-usd-estado.png) ([fuente](https://www.bancoestado.cl/imagenes/_personas/servicios/envio-de-dinero/exterior-chile.asp)) |
+| Itaú                   | ![Comisión Itaú Recepción](https://user-images.githubusercontent.com/8508658/134077751-9ed1bdaa-ffa2-49c3-8143-5b7bc82a0e98.png) |
 
 *: UM es Unidad Monetaria, que representa la moneda de origen del depósito. Si te depositan dólares, te cobran US$50 + IVA.
 
@@ -180,9 +180,10 @@ Dile a tu ejecutivo que quieres abrir cuenta en dólares porque recibes tu sueld
 
 | Banco         | Comisión por mantención de cuenta MX* |
 |---------------|:------------------------------------:|
-| Santander     | $0 ([fuente](https://banco.santander.cl/tarifas-y-comisiones/santander/cuenta-corriente/archivos/cuenta-corriente-moneda-extranjera)) |
+| Santander     | $0 ([fuente](https://banco.santander.cl/tarifas-y-comisiones/santander/cuenta-corriente/archivos/cu
 | BICE          | $0 ([fuente](https://www.bice.cl/documentos/Tarifas-y-Comisiones-Banca-Personas-Agosto-2021.pdf)) |
-| Scotiabank | ![Comision cuenta corriente USD Scotiabank](img/cuenta-usd-scotiabank.png) |
+| Scotiabank    | ![Comision cuenta corriente USD Scotiabank](img/cuenta-usd-scotiabank.png) |
+| Itaú          | $0                             |
 
 MX significa "moneda extranjera".
 
@@ -229,7 +230,7 @@ Si tu retuviste el Pago Provisional Mensual al emitir la boleta, debes declarar 
 Nota: El porcentaje de retención de 11,5% es para el año comercial 2021 , e irá aumentando:
 
 |2021  | 2022  | 2023  | 2024  | 2025  | 2026  | 2027  | 2028 |
-|--------------------------------------------------------------
+|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:----:|
 |11,5% |12,15% | 13%   |13,75% | 14,5% |15,25% | 16%   |  17% |
 
 ### Cotizaciones mensuales
@@ -318,6 +319,50 @@ Además, típicamente no te dan todo las opciones o RSUs inmediatamente, si no q
 Para ejecer tus stock options eventualmente tendrás que tener dólares (o la moneda en la que se vendan las acciones), para poder pagarle a tu empresa. Si quieres poder hacerlo, probablemente te conviene ir ahorrando dólares desde un comienzo y encontrar una manera de transferir que no sea excesivamente cara, usando uno de los métodos descritos en "Recibe tu sueldo" pero a la inversa.
 
 Las RSUs en general son entregadas por empresas que ya son públicas o más establecidas. Es parecido a tener un stock option con strike price de $0, esto es, no tienes que ejercerlas, te dan las acciones directamente.
+
+## Créditos con Bancos (hipotecario, de consumo, etc).
+
+Como trabajador remoto para una empresa de USA (sin contrato con una empresa Chilena) eres considerado como **TRABAJADOR INDEPENDIENTE**, aunque seas en la práctica dependiente.
+
+Para los bancos, es muy probable que te consideren "más riesgoso" solo por el hecho de ser trabajador independiente. Lo cual hace sentido si pensamos que ellos, en general, tienen ingresos variables e históricamente no se han pagado sus cotizaciones provisionales (por eso ahora lo hicieron obligatorio 😉).
+
+En consecuencia, los bancos te exigirán harta información de respaldo para cosas como **CRÉDITOS HIPOTECARIOS**.
+
+Así que por eso, ten en cuenta los siguientes puntos:
+
+### Cómo calculan tu sueldo líquido para prestarte plata (Créditos hipotecarios)
+
+¿Recuerdas que el SII calcula los impuestos que tienes que pagar considerando solo el 70% de tu ingreso bruto?
+
+Bueno, dice la leyenda que los bancos hacen algo parecido para calcular tu líquido para cosas como créditos hipotecarios. Así que si ganas $2.000.000, el banco considerará que tu sueldo líquido es $1.400.000.
+
+Considera que tu dividendo (lo que pagas mensualmente como cuota de tu crédito hipotecario) no puede superar el 25% de tu líquido. Es decir, si ganas $2.000.000, tu líquido es $1.400.000 y por ende tu dividendo máximo es $350.000.
+
+De todas formas, esta restricción te la pueden subir gracias al "comité evaluador" del banco. El comité evaluador tomará cualquier evidencia que diga "sí, esta persona tiene pinta de ser buen/mal cliente" para tomar su desición.
+
+### Qué cosas te piden para un crédito
+
+¿Recuerdas que eres independiente y por ende más riesgoso?
+
+Bueno, el banco te podría pedir cosas como:
+
+- Últimas 2 declaraciones de renta (es decir, 2 años de trabajo como independiente).
+- Últimas 6 boletas de honorario (o mejor dicho, los últimos 6 meses de boletas).
+
+Lo cual puede parecer mucho, sobre todo cuando estás partiendo.
+
+TODO: ¿qué pasa si tenías contrato y trabajas para USA hace un par de meses?
+
+### Qué cosas puedes usar a tu favor (para verte menos riesgoso para un crédito hipotecario)
+
+Para demostrar que eres menos riesgoso, puedes usar lo siguiente:
+
+- Pago de cotizaciones mensuales. No es obligación pagar la AFP mes a mes, pero podría ayudar a verte "más serio" para el banco.
+- Contrato, incluso si es para una empresa gringa te podría ayudar.
+- Poca variación de tus boletas de honorarios. Si te pagan X dólares mensuales siempre, estás bien 👍 (tu sueldo variará de acuerdo al dólar). Ahora, si te un mes ganas 100 y el otro mes ganas 2.000 ahí ya es distinto.
+- Título Universitario, sobre todo si es de una universidad "tradicional". Esto ayuda sobre todo si evalúas un banco donde no tienes cuenta, ya que te podrían dar un crédito solo para ganarte como cliente.
+- Mayor pie al que te piden. Esto demuestra que tienes capacidad de ahorro, y de paso, disminuye el dividendo.
+- Tener al menos una declaración de renta donde se vea que tu sueldo como independiente es estable.
 
 ## Tengo más preguntas
 
