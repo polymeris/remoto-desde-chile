@@ -45,6 +45,7 @@ Hay muchísimas plataformas online para buscar trabajo remoto, pero los mejores 
 * [WeWorkRemotely](https://weworkremotely.com) es, en sus palabras, la comunidad de trabajo remoto más grande del mundo.
 * [RemoteOK](https://remoteok.io) fue creada por [Pieter Levels](https://twitter.com/levelsio), quien tambien creó [NomadList](https://nomadlist.com), una comunidad de digital nomads.
 * [Remote.com](https://remote.com) muestra puestos disponibles en las empresas más conocidas _a veces_.
+* [TechJobList](https://www.techjoblist.com/) es una lista de ofertas de trabajo para desarrolladores de software. La mayoría de los trabajos son remotos.
 
 ## ¿Cuánto cobro?
 
