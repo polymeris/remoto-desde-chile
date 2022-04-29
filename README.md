@@ -120,7 +120,7 @@ Las comisiones de las que tenemos conocimiento son las siguientes:
 | -----------------------|:-------------------------------:|:--------------:|
 | BICE                   | ![Comisión BICE Recepción](img/comision-recepcion-usd-bice.png) ([fuente](https://www.bice.cl/documentos/Tarifas-y-Comisiones-Banca-Personas-Agosto-2021.pdf)) | Agosto 2021 || Scotiabank             | Gratis                          |
 | Bci                    | *UM50 + IVA                     |
-| Santander              | ![Comisión Santander Recepción](img/comision-recepcion-usd-santander.png) ([fuente](https://www.santander.cl/tarifas_comisiones/productos/TransExterior.pdf))    |
+| Santander              | Comisión + IVA ![Comisión Santander Recepción](img/comision-recepcion-usd-santander.png) ([fuente](https://www.santander.cl/tarifas_comisiones/productos/TransExterior.pdf))    |
 | Banco Edwards / Chile  | ![Comisión Edwards Recepción](img/comision-recepcion-usd-edwards.png) ([fuente](https://transferwise.com/es/blog/transferencia-internacional-banco-chile)) |
 | Banco Estado           | ![Comisión BancoEstado Recepción](img/comision-recepcion-usd-estado.png) ([fuente](https://www.bancoestado.cl/imagenes/_personas/servicios/envio-de-dinero/exterior-chile.asp)) |
 | Itaú                   | ![Comisión Itaú Recepción](https://user-images.githubusercontent.com/8508658/134077751-9ed1bdaa-ffa2-49c3-8143-5b7bc82a0e98.png) |
