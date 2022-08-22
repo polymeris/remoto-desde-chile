@@ -75,19 +75,19 @@ Limitaciones:
 * en el pasado ha tenido limitaciones de monto mensual, pero a Julio 2020 no las hay
 
 Ventajas:
-* relativamente barato (a menos que envies montos muy grandes)
+* relativamente barato (a menos que envíes montos muy grandes)
 * rápido
 * todo online
 
 ### Cuenta en el extranjero
 
 Limitaciones:
-* dificil (o imposible) de abrir, dependiendo del país.
-* no es una solución completa ya que igual tienes que enviar el dinero a Chile de alguna manera
+* difícil (o imposible) de abrir, dependiendo del país.
+* no es una solución completa ya que igual tienes que enviar el dinero a Chile de alguna manera.
 
 Ventajas:
-* probablemente más simple para tu empleador
-* puedes ahorrar/invertir en el extranjero
+* probablemente más simple para tu empleador.
+* puedes ahorrar/invertir en el extranjero.
 
 ### Transferencia Bancaria Internacional
 
@@ -159,15 +159,15 @@ Una vez le pasaste los datos de transferencia a tu empleador:
 - el pago se demora 1 o dos días hábiles "en llegar".
 - el pago llega y estará disponible en tu cuenta corriente en dólares ✌️
 - ahora puedes vender dólares, y los pesos chilenos serán depositados en tu cuenta corriente
-- también puedes pagar tu cuenta internacional (ej: tus compras de AliExpress o Uber) directamente con tus dólares 😉 
+- también puedes pagar tu cuenta internacional (ej: tus compras de AliExpress o Uber) directamente con tus dólares 😉
 
-Es muy cómo que el pago te llegue y que más encima puedas venderlos sin ir a una oficina con depósito a tu cuenta en CLP.
+Es muy cómodo que el pago te llegue y que más encima puedas venderlos sin ir a una oficina con depósito a tu cuenta en CLP.
 
 Eso sí, es importante tener cuenta que:
 
 - tener cuenta corriente en en dólares **no te salva de la comisión que tu banco te pueda cobrar** por el hecho de recibir tu dinero.
 - algunos bancos no tienen implementada la funcionalidad en sus páginas o apps de vender dólares (ej: BICE), por lo que para vender tienes que enviarle un correo a tu ejecutivo.
-- el tipo de cambio suele ser mejor que el que te dan en caja
+- el tipo de cambio suele ser mejor que el que te dan en caja.
 - la cuenta corriente podría tener costos de mantención asociados.
 
 **¿Cómo abrir cuenta corriente en dólares?**
@@ -182,7 +182,7 @@ Dile a tu ejecutivo que quieres abrir cuenta en dólares porque recibes tu sueld
 
 | Banco         | Comisión por mantención de cuenta MX* |
 |---------------|:------------------------------------:|
-| Santander     | $0 ([fuente](https://banco.santander.cl/tarifas-y-comisiones/santander/cuenta-corriente/archivos/cu
+| Santander     | $0 ([fuente](https://banco.santander.cl/tarifas-y-comisiones/santander/cuenta-corriente/archivos/cuenta-corriente-moneda-extranjera))
 | BICE          | $0 ([fuente](https://www.bice.cl/documentos/Tarifas-y-Comisiones-Banca-Personas-Agosto-2021.pdf)) |
 | Scotiabank    | ![Comision cuenta corriente USD Scotiabank](img/cuenta-usd-scotiabank.png) |
 | Itaú          | $0                             |
@@ -194,32 +194,32 @@ MX significa "moneda extranjera".
 El tipo de cambio depende de cómo vendas tus dólares:
 
 1. si vendes en sucursal, el precio tiende a ser más conservador (y por ende menor) a otros medios.
-    - a veces conviene cruzar la calle para ir a venderlos al Banco de al frente (mientras no haya mucha fila...), o a una casa de cambios, pero tendrás que esperar que la viejita revise cada billete
+    - a veces conviene cruzar la calle para ir a venderlos al Banco de al frente (mientras no haya mucha fila...), o a una casa de cambios, pero tendrás que esperar que la viejita revise cada billete.
 2. si vendes en página web desde tu cuenta corriente (o llamando a tu ejecutivo) el precio varía según mercado. Es decir, un mismo día pueden haber muchas variaciones. Mi experiencia con esta modalidad ha sido:
     - Banco BICE: valor que te dan es muy similar al de [valor-dolar.cl](https://valor-dolar.cl/)
     - Banco Scotiabank: valor inferior al de valor-dolar.cl (5-10 pesos)
- 
+
 #### TLDR;
 
 - Tu empleador te puede enviar USD a tu cuenta chilena.
 - Aquí hay comisiones que le cobran a este por enviar (~20USD) y a ti por recibir (~0.6%, aunque en algunos bancos no te cobran).
 - Puedes recibir tu pago en cualquier tipo de cuenta (incluso cuenta RUT) aunque en cuentas vistas pueden haber límites de montos.
-- Si recibes en cuenta corriente en pesos Chilenos, tienes que ir a sucursal a retirar los dólares 🙃, a menos que tengas una cuenta en el Bci. Ahí puedes venderlos al mismo banco, _pero_ considera que el tipo de cambio es conservador.
+- Si recibes en cuenta corriente en pesos chilenos, tienes que ir a sucursal a retirar los dólares 🙃, a menos que tengas una cuenta en el Bci. Ahí puedes venderlos al mismo banco, _pero_ considera que el tipo de cambio es conservador.
 - Si recibes en cuenta corriente en dólares, el abono se hace automáticamente y puedes vender los dólares a través de las plataformas web o llamando a tu ejecutiv@. El tipo de cambio varía con el mercado, un mismo día pueden haber distintos valores. Compara el valor que te ofrecen con el de la página [valor-dolar.cl](https://valor-dolar.cl/).
 - Para abrir cuenta en dólares te pueden pedir ciertos requisitos, preguntar a ejecutiv@.
 - Uno de los mejores bancos para recibir dinero del exterior es el BICE por las siguientes razones:
     - cuenta corriente en dólares no tiene costo adicional. Para poder abrirla necesitaras cuenta corriente en pesos, línea de crédito y tarjeta de crédito (te abren todo junto). Por la tarjeta de débito de la cuenta corriente te cobran ~$5400 mensuales, por la línea de crédito 1 UF anual más 0.4% del saldo de tu linea de crédito, y la tarjeta de crédito Visa Gold no tiene comisión de uso (ojo que hay otras que sí). [Tarifario Bice](https://www.bice.cl/documentos/Tarifas-y-Comisiones-Banca-Personas-Agosto-2021.pdf).
     - el tipo de cambio es muy cercano al de la página valor-dolar
     - si bien la barrera de entrada al banco es alta (es ABC1 😂) te piden pocas cosas para la cuenta en dólares
-  
+
 
 ## Paga impuestos, salud y cotizaciones
 
 ### Emisión de boletas
 
-Suponiendo que la empresa para la que trabajas no tiene presencia legal en Chile, debes emitir boleta de honorarios via [la página web del SII](http://homer.sii.cl/). Elige la opción que el contribuyente emisor (tú) retiene el Pago Provisional Mensual.
+Suponiendo que la empresa para la que trabajas no tiene presencia legal en Chile, debes emitir boleta de honorarios via [la página web del SII](http://homer.sii.cl/). Elige la opción que el contribuyente emisor (tú) retiene el Pago Provisional Mensual (PPM).
 
-![El contribuyente emisor será quien se encargue de la retenció del porcentaje vigente de Pago Provisional Mensual](img/sii-retencion-emisor.png)
+![El contribuyente emisor será quien se encargue de la retención del porcentaje vigente de Pago Provisional Mensual](img/sii-retencion-emisor.png)
 
 El SII tiene un RUT especial para empresas extranjeras: 44.444.446-0. En el campo de región puedes poner cualquier cosa, pero la dirección debería ser la real de la empresa.
 
@@ -227,9 +227,9 @@ Si te pagan en dólares, usa la [tabla dólar-peso del SII](http://www.sii.cl/va
 
 ### Impuestos mensuales
 
-Si tu retuviste el Pago Provisional Mensual al emitir la boleta, debes declarar (**y, muy importante, pagar!**) impuestos mensuales usando el formulario F29 [la web del SII](http://homer.sii.cl/). La página calcula el monto por ti a partir de las boletas electrónicas del mes anterior (un 11,5% de éstas), y luego puedes pagar online con tu banco. Cuando se habla de "devolución de impuestos" este es el dinero que se te devuelve, si sobra algo luego de tramitar tu declaración de impuestos anual.
+Si tu retuviste el Pago Provisional Mensual al emitir la boleta, debes declarar (**y, muy importante, pagar!**) impuestos mensuales usando el formulario F29 [la web del SII](http://homer.sii.cl/). La página calcula el monto por ti a partir de las boletas electrónicas del mes anterior (un 12,15% de éstas), y luego puedes pagar en línea con tu banco. Cuando se habla de "devolución de impuestos" este es el dinero que se te devuelve, si sobra algo luego de tramitar tu declaración de impuestos anual.
 
-Nota: El porcentaje de retención de 11,5% es para el año comercial 2021 , e irá aumentando:
+Nota: El porcentaje de retención de 12,15% es para el año comercial 2022, e irá aumentando:
 
 |2021  | 2022  | 2023  | 2024  | 2025  | 2026  | 2027  | 2028 |
 |:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:----:|
@@ -243,7 +243,7 @@ Tienes la opción de pagar AFP y Salud mensualmente o anualmente. Más abajo se 
 
 ### Declaración anual
 
-La "operación renta" es el cálculo y pago de impuestos y cotizaciones que cada año tienes que hacer del año anterior. Por ejemplo en Abril del 2021 paga impuestos sobre lo que ganaste el año 2020.
+La "operación renta" es el cálculo y pago de impuestos y cotizaciones que cada año tienes que hacer del año anterior. Por ejemplo en abril del 2021 paga impuestos sobre lo que ganaste el año 2020.
 Si eres independiente en esta ocasión también tienes que pagar tus cotizaciones (TODO buscar excepciones).
 
 El cálculo del monto exacto es bastante complicado, pero **simplificando mucho** la idea general es que de la suma de lo que pagaste mensualmente se le restan los impuestos, salud y AFP. Si sobra, te devuelven. Si falta, te lo cobran. En línea de esta simplificación, puedes ver la ["Calculadora de impuestos"](https://impuestos.netlify.app/) que te ayuda a estimar cuánto le deberías pagar por impuestos y cotizaciones.
@@ -324,7 +324,7 @@ Las RSUs en general son entregadas por empresas que ya son públicas o más esta
 
 ## Créditos con Bancos (hipotecario, de consumo, etc).
 
-Como trabajador remoto para una empresa de USA (sin contrato con una empresa Chilena) eres considerado como **TRABAJADOR INDEPENDIENTE**, aunque seas en la práctica dependiente.
+Como trabajador remoto para una empresa de USA (sin contrato con una empresa chilena) eres considerado como **TRABAJADOR INDEPENDIENTE**, aunque seas en la práctica dependiente.
 
 Para los bancos, es muy probable que te consideren "más riesgoso" solo por el hecho de ser trabajador independiente. Lo cual hace sentido si pensamos que ellos, en general, tienen ingresos variables e históricamente no se han pagado sus cotizaciones provisionales (por eso ahora lo hicieron obligatorio 😉).
 
