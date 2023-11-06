@@ -165,7 +165,7 @@ Es muy cómodo que el pago te llegue y que más encima puedas venderlos sin ir a
 
 Eso sí, es importante tener cuenta que:
 
-- tener cuenta corriente en en dólares **no te salva de la comisión que tu banco te pueda cobrar** por el hecho de recibir tu dinero.
+- tener cuenta corriente en dólares **no te salva de la comisión que tu banco te pueda cobrar** por el hecho de recibir tu dinero.
 - algunos bancos no tienen implementada la funcionalidad en sus páginas o apps de vender dólares (ej: BICE), por lo que para vender tienes que enviarle un correo a tu ejecutivo.
 - el tipo de cambio suele ser mejor que el que te dan en caja.
 - la cuenta corriente podría tener costos de mantención asociados.
