@@ -40,7 +40,7 @@ Para la entrevista: prepárate. Postula a cosas que de verdad te interesen, para
 
 Hay muchísimas plataformas online para buscar trabajo remoto, pero los mejores trabajos se siguen consiguiendo por _networking_: recomendación de tu red de conocidos o en foros, slacks, etc. Busca uno de tu tecnología o nicho y pregunta por el canal de #jobs.
 
-* [devschile](https://devschile.cl/) tiene un canal #pegas con bastante énfasis en lo remoto
+* [devschile](https://devschile.cl/) tiene un canal #trabajos con bastante énfasis en lo remoto.
 * [Hacker News](https://news.ycombinator.com/) publica mensualmente un hilo de "Who's hiring". [Hay](https://findwork.dev/?source=hn) [algunas](https://djqyo3vqv2.execute-api.us-west-1.amazonaws.com/latest/) [herramientas](https://news.ycombinator.com/item?id=10313519) para browsear esos hilos mensuales de forma mas amigable.
 * [WeWorkRemotely](https://weworkremotely.com) es, en sus palabras, la comunidad de trabajo remoto más grande del mundo.
 * [RemoteOK](https://remoteok.io) fue creada por [Pieter Levels](https://twitter.com/levelsio), quien tambien creó [NomadList](https://nomadlist.com), una comunidad de digital nomads.
