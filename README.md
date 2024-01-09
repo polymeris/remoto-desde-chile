@@ -1,3 +1,4 @@
+
 # remoto-desde-chile
 Enfocado en desarrolladores y profesiones afines trabajando remotamente desde Chile.
 
@@ -12,27 +13,6 @@ Este es un trabajo colaborativo, [contribuye](CONTRIBUTING.md)!
 * https://polymeris.github.io/remoto-desde-chile/
 {:toc}
 
-# Tabla de contenidos
-- [Encuentra trabajo](#encuentra-trabajo)
-  * [Formas de trabajo](#formas-de-trabajo)
-  * [Preparación](#preparación)
-  * [Dónde encontrar trabajo](#dónde-encontrar-trabajo)
-- [¿Cuánto cobro?](#cuánto-cobro)
-- [Recibe tu sueldo](#recibe-tu-sueldo)
-  * [Transferwise](#transferwise)
-  * [Cuenta en el extranjero](#cuenta-en-el-extranjero)
-  * [Transferencia Bancaria Internacional](#transferencia-bancaria-internacional)
-- [Paga impuestos, salud y cotizaciones](#paga-impuestos-salud-y-cotizaciones)
-  * [Emisión de boletas](#emisión-de-boletas)
-  * [Impuestos mensuales](#impuestos-mensuales)
-  * [Cotizaciones mensuales](#cotizaciones-mensuales)
-  * [Declaración anual](#declaración-anual)
-- [Stock options/RSUs](#stock-optionsrsus)
-- [Créditos con Bancos (hipotecario, de consumo, etc.)](#créditos-con-bancos-hipotecario-de-consumo-etc)
-  * [Cómo calculan tu sueldo líquido para prestarte plata](#cómo-calculan-tu-sueldo-líquido-para-prestarte-plata)
-  * [Qué cosas te piden para un crédito](#qué-cosas-te-piden-para-un-crédito)
-  * [Qué cosas puedes usar a tu favor](#qué-cosas-puedes-usar-a-tu-favor)
-- [Tengo más preguntas](#tengo-más-preguntas)
 
 ## Encuentra trabajo
 
